@@ -16,6 +16,7 @@
 				
 				<h3 class="itemSection">The project</h3>
 				<p class="itemText">I decided to start this project as I watch quite a few Liga BBVA matches (mostly when they feature my favourite team, Atlético Madrid) and wanted to see what I could come up with.</p>
+				<p class="itemText">The goal of this project was to create a modern interface with a focus on using images of the club's crests and players rather than plain text elements.</p>
 				<p class="itemText">This project is unsolicited and I am not reflecting the views and/or ideas of the Liga BBVA or the company that provides the graphical elements for them.</p>
 
 				<h3 class="itemSection">Choice of fonts and colour palette</h3>
@@ -24,7 +25,6 @@
 				<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-color-palette.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Color palette">
 				
 				<h3 class="itemSection">The design</h3>
-				<p class="itemText">When designing these elements, I had a focus on creating a simple interface that tells the user exactly what they need to know. </p>
 				<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-before-kick-off.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Before kick-off">
 				
 				<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-lineup.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Team lineup">
