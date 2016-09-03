@@ -1,15 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-                 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-                 <url><loc>http://project.bgjerlowdesigns.com/portfolio-18-08-2016/</loc></url>
-<url><loc>http://project.bgjerlowdesigns.com/portfolio-18-08-2016/index.php</loc></url>
-<url><loc>http://project.bgjerlowdesigns.com/portfolio-18-08-2016/about.php</loc></url>
-<url><loc>http://project.bgjerlowdesigns.com/portfolio-18-08-2016/contact.php</loc></url>
-<url><loc>http://project.bgjerlowdesigns.com/portfolio-18-08-2016/while-you-wait.php</loc></url>
-<url><loc>http://project.bgjerlowdesigns.com/portfolio-18-08-2016/mconsult.php</loc></url>
-<url><loc>http://project.bgjerlowdesigns.com/portfolio-18-08-2016/forza-hub-mobile.php</loc></url>
-<url><loc>http://project.bgjerlowdesigns.com/portfolio-18-08-2016/silo-coffee.php</loc></url>
-<url><loc>http://project.bgjerlowdesigns.com/portfolio-18-08-2016/liga-bbva-redesign.php</loc></url>
-<url><loc>http://project.bgjerlowdesigns.com/portfolio-18-08-2016/cartabase.php</loc></url>
-<url><loc>http://project.bgjerlowdesigns.com/project_2.2_exam/index.php</loc></url>
-<url><loc>http://project.bgjerlowdesigns.com/project_1.2/</loc></url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://project.bgjerlowdesigns.com/portfolio_optimized/</loc>
+</url>
+<url>
+  <loc>http://project.bgjerlowdesigns.com/portfolio_optimized/index.php</loc>
+</url>
+<url>
+  <loc>http://project.bgjerlowdesigns.com/portfolio_optimized/about.php</loc>
+</url>
+<url>
+  <loc>http://project.bgjerlowdesigns.com/portfolio_optimized/contact.php</loc>
+</url>
+<url>
+  <loc>http://project.bgjerlowdesigns.com/portfolio_optimized/while-you-wait.php</loc>
+</url>
+<url>
+  <loc>http://project.bgjerlowdesigns.com/portfolio_optimized/mconsult.php</loc>
+</url>
+<url>
+  <loc>http://project.bgjerlowdesigns.com/portfolio_optimized/forza-hub-mobile.php</loc>
+</url>
+<url>
+  <loc>http://project.bgjerlowdesigns.com/portfolio_optimized/silo-coffee.php</loc>
+</url>
+<url>
+  <loc>http://project.bgjerlowdesigns.com/portfolio_optimized/liga-bbva-redesign.php</loc>
+</url>
+<url>
+  <loc>http://project.bgjerlowdesigns.com/portfolio_optimized/cartabase.php</loc>
+</url>
+<url>
+  <loc>http://project.bgjerlowdesigns.com/portfolio_optimized/archive/while-you-wait-report.pdf</loc>
+  <lastmod>2016-09-03T14:03:33+00:00</lastmod>
+</url>
+<url>
+  <loc>http://project.bgjerlowdesigns.com/portfolio_optimized/archive/silo-coffee-report.pdf</loc>
+  <lastmod>2016-09-03T14:03:28+00:00</lastmod>
+</url>
 </urlset>

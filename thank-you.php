@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Bo Gjerlow | Error</title>
+		<title>Bo Gjerlow | Success</title>
 		<meta name="robots" content="noindex,nofollow"/>
 		<?php include 'inc/header.php';?>
 		
