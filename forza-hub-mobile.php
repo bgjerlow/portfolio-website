@@ -4,8 +4,6 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Bo Gjerlow | Forza Hub Mobile</title>
-		<meta name="description" content="The portfolio of Bo Gjerløw, a UI designer & front-end developer based in Denmark">
-  		<meta name="keywords" content="UI designer,UI design,user interface designer,user interface design,front-end developer,front-end development,design,development">
 		
 		<?php include 'inc/header.php';?>
 

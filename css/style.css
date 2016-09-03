@@ -37,7 +37,7 @@ p {
 nav a {
     font-family: 'Montserrat', sans-serif;
 	text-decoration: none;
-    color: #262626;
+    color: #9c9c9c;
     font-size: 90%;
 }
 
@@ -131,7 +131,7 @@ a.darken img {
 	margin-top: 20px;
 }
 
-/* Contact page */
+/* Contact page (including error + thank you pages) */
 #contactContent {
 	margin-top: 25px;
 	margin-bottom: 25px;
@@ -301,7 +301,6 @@ a.darken img {
 
 /* Footer */
 .footer {
-    background-color: #242424;
 	height: 80px;
     width: 100%;
 	display: table;

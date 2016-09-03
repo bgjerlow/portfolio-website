@@ -129,7 +129,7 @@
     padding: 20px 10px;
     margin: 2px 5px;
     text-decoration: none;
-    color: #262626; /* Color of list items */
+    color: #9c9c9c; /* Color of list items */
 	}
     .slicknav_nav a:hover {
       -webkit-border-radius: 6px;

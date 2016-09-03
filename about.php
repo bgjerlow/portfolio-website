@@ -36,7 +36,7 @@
 								
 				<p class="aboutText">Along with user interface design and front-end development, I also possess skills within user experience design and general graphic design. I know a bit of back-end development as well. I always aim to create products with a strong connection to the target audience and with a high level of usability. </p>
 				
-				<p class="aboutText">Outside of design, my main interests are cars, sports (football and motorsports), video games, and technology.</p>
+				<p class="aboutText">Outside of design my main interests are cars, motorsport, football, video games, and technology.</p>
 				
 				<p class="aboutText">If you would like to get in touch, you can send me an email from the 'Contact' page. I look forward to hearing from you!</p>
 

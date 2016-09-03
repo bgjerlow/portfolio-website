@@ -4,14 +4,12 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Bo Gjerlow | Contact</title>
-		<meta name="description" content="The portfolio of Bo Gjerløw, a UI designer & front-end developer based in Denmark">
-  		<meta name="keywords" content="UI designer,UI design,user interface designer,user interface design,front-end developer,front-end development,design,development">
 		
 		<?php include 'inc/header.php';?>
 
 			<main id="contactContent" class="animated zoomIn">
 				<h2 class="contactHeader">Let's talk</h2>
-				<p>If you have any questions, inquiries, or just want to say hi you can do so using the form below.</p>
+				<p>If you have any questions, inquiries, or just want to say hi you can do so using the form below. I look forward to hearing from you!</p>
 				
 				<div id="formWrap">
 					<form method="POST" action="form-handler.php" id="contactForm">
