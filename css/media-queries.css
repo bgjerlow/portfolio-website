@@ -45,6 +45,10 @@
 		display: none;
 	}
 	
+	#headerMobile {
+		border-bottom: 2px solid #F8F9F9;
+	}
+	
 	.js .slicknav_menu {
 		display: block;
 	}

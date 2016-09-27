@@ -9,13 +9,14 @@ p {
     font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
     font-size: 100%;
-    line-height: 150%;
-	color: #666666;
+    line-height: 200%;
+	color: #505B64;
 }
 
 /* Navigation */
 #headerDesktop {
 	height: 80px;
+	border-bottom: 2px solid #F8F9F9;
 }
 
 #siteLogo {
@@ -188,10 +189,11 @@ a.darken img {
 	font-size: 1.2em;
 	color: #262626;
 	padding: 15px;
-	border-radius: 5px;
-	width: 30%;
+	border-radius: 50px;
+	width: 20%;
 	min-width: 150px;
 	-webkit-appearance: none;
+	cursor: pointer;
 }
 
 .button:hover {
@@ -242,9 +244,10 @@ a.darken img {
 }
 
 .itemSection {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 120%;
-	line-height: 180%;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: 135%;
+	line-height: 202.5%;
 	color: #414141;
 }
 
@@ -336,4 +339,8 @@ html, body {
 
 footer, .push {
 	height: 80px;
+}
+
+.footer {
+	border-top: 2px solid #F8F9F9;
 }

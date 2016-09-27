@@ -5,7 +5,7 @@
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<link rel="stylesheet" type="text/css" href="css/media-queries.css">
 		<!-- Google Fonts -->
-		<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:400,700" rel="stylesheet"> 
+		<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:400,600" rel="stylesheet"> 
 		<!-- Animate.css -->
 		<link rel="stylesheet" type="text/css" href="css/animate.css">
 		<!-- jQuery CDN -->
