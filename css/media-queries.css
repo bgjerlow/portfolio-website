@@ -5,6 +5,11 @@
 		margin-right: 20%;
 	}
 	
+	.portfolioItemIntro {
+		padding-left: 20%;
+		padding-right: 20%;
+	}
+	
 	.portfolioItem, .portfolioNav {
 		margin-left: 20%;
 		margin-right: 20%;
@@ -66,6 +71,12 @@
 		margin-left: 5%;
 		margin-right: 5%;
 	}
+	
+	.portfolioItemIntro {
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+	
 	
 	/* Changing settings for 'Home' page */
 	.portfolioPreview {
