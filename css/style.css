@@ -220,6 +220,37 @@ a.darken img {
 }
 
 /* Portfolio Item pages */
+.portfolioItemIntro {
+	padding-left: 25%;
+	padding-right: 25%;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+#whileYouWaitIntro {
+	background-color: #0A5D94;
+}
+
+#mConsultIntro {
+	background-color: #27ae60;
+}
+
+#forzaHubMobileIntro {
+	background-color: #c0392b;
+}
+
+#siloCoffeeIntro {
+	background-color: #BCB39E;
+}
+
+#ligaBBVARedesignIntro {
+	background-color: #2c3e50;
+}
+
+#cartabaseIntro {
+	background-color: #e67e22;
+}
+
 .portfolioItem {
 	clear: both;
 	margin-left: 25%;
@@ -230,16 +261,16 @@ a.darken img {
 
 .itemTitle {
 	font-family: 'Montserrat', sans-serif;
-	font-size: 170%;
+	font-size: 220%;
 	margin-bottom: 5px;
-	color: #0A5D94;
+	color: #fff;
 }
 .itemTags {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	font-size: 90%;
 	line-height: 135%;
-	color: #AEAEAE;
+	color: #E9E9E9;
 	margin-bottom: 20px;
 }
 

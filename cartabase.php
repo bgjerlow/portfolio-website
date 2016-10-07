@@ -7,12 +7,16 @@
 		
 		<?php include 'inc/header.php';?>
 
-			<main class="portfolioItem animated slideInLeft">
-				<h1 class="itemTitle">Cartabase</h1>
-				<h2 class="itemTags">branding</h2>
-				<img src="img/portfolio/cartabase/cartabase-logo.png" class="itemImage itemImageMargin" alt="Cartabase logo">
-				<p class="aboutText">Branding I did for a startup I and a friend are working on that is related to sale and purchase of used cars. It is set on hold at the moment as we are both busy with other things.</p>
-				<p class="aboutText">The colours used in the logo are the same colours we plan to use in our product.</p>
+			<main class="animated slideInLeft">
+				<section class="portfolioItemIntro" id="cartabaseIntro">
+					<h1 class="itemTitle">Cartabase</h1>
+					<h2 class="itemTags">branding</h2>
+					<img src="img/portfolio/cartabase/cartabase-top.jpg" class="itemImage itemImageMargin" alt="Cartabase logo">
+				</section>
+				<section class="portfolioItem">
+					<p class="aboutText">Branding I did for a startup I and a friend are working on that is related to sale and purchase of used cars. It is set on hold at the moment as we are both busy with other things.</p>
+					<p class="aboutText">The colours used in the logo are the same colours we plan to use in our product.</p>
+				</section>
 			</main>
 
 			<section class="portfolioNav">
