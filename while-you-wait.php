@@ -29,8 +29,8 @@
 				</section>
 			</main>
 
-			<section class="portfolioNav">
+			<nav class="portfolioNav">
 				<a href="mconsult.php" class="portfolioNavLeft portfolioNavText">&larr; MConsult</a>
-			</section>
+			</nav>
 
 			<?php include 'inc/footer.php';?>

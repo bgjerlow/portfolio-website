@@ -44,9 +44,9 @@
 				</section>
 			</main>
 
-			<section class="portfolioNav">
+			<nav class="portfolioNav">
 				<a href="cartabase.php" class="portfolioNavLeft portfolioNavText">&larr; Cartabase</a>
 				<a href="silo-coffee.php" class="portfolioNavRight portfolioNavText">Silo Coffee &rarr;</a>
-			</section>
+			</nav>
 
 			<?php include 'inc/footer.php';?>

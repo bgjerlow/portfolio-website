@@ -49,9 +49,9 @@
 				</section>
 			</main>
 
-			<section class="portfolioNav">
+			<nav class="portfolioNav">
 				<a href="forza-hub-mobile.php" class="portfolioNavLeft portfolioNavText">&larr; Forza Hub Mobile</a>
 				<a href="while-you-wait.php" class="portfolioNavRight portfolioNavText">While You Wait &rarr;</a>
-			</section>
+			</nav>
 
 			<?php include 'inc/footer.php';?>

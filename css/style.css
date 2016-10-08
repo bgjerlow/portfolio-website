@@ -33,10 +33,14 @@ p {
     display: inline;
     margin-left: 50px;
 	line-height: 80px;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+    color: #9c9c9c;
+    font-size: 90%;
 }
 
 nav a {
-    font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	text-decoration: none;
     color: #9c9c9c;
     font-size: 90%;

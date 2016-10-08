@@ -32,9 +32,9 @@
 				</section>
 			</main>
 
-			<section class="portfolioNav">
+			<nav class="portfolioNav">
 				<a href="liga-bbva-redesign.php" class="portfolioNavLeft portfolioNavText">&larr; Liga BBVA Redesign</a>
 				<a href="forza-hub-mobile.php" class="portfolioNavRight portfolioNavText">Forza Hub Mobile &rarr;</a>
-			</section>
+			</nav>
 
 			<?php include 'inc/footer.php';?>

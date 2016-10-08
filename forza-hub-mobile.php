@@ -42,9 +42,9 @@
 				</section>
 			</main>
 
-			<section class="portfolioNav">
+			<nav class="portfolioNav">
 				<a href="silo-coffee.php" class="portfolioNavLeft portfolioNavText">&larr; Silo Coffee</a>
 				<a href="mconsult.php" class="portfolioNavRight portfolioNavText">MConsult &rarr;</a>
-			</section>
+			</nav>
 
 			<?php include 'inc/footer.php';?>
