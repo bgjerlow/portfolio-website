@@ -10,7 +10,7 @@
 			<main class="animated slideInLeft">
 				<section class="portfolioItemIntro" id="mConsultIntro">
 					<h1 class="itemTitle">MConsult</h1>
-					<h2 class="itemTags">branding</h2>
+					<h2 class="itemTags">Feb. 2016 - branding</h2>
 					<img src="img/portfolio/mconsult/mconsult-top.jpg" class="itemImage itemImageMargin" alt="MConsult logo">
 				</section>
 				

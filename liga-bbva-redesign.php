@@ -10,7 +10,7 @@
 			<main class="animated slideInLeft">
 				<section class="portfolioItemIntro" id="ligaBBVARedesignIntro">
 					<h1 class="itemTitle">Liga BBVA Redesign</h1>
-					<h2 class="itemTags">UI design</h2>
+					<h2 class="itemTags">Oct. 2015 - UI/UX design</h2>
 					<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-top.jpg" class="itemImage itemImageMargin" alt="Liga BBVA redesign highlights">
 				</section>
 				

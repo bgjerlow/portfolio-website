@@ -10,14 +10,14 @@
 			<main class="animated slideInLeft">
 				<section class="portfolioItemIntro" id="whileYouWaitIntro">
 					<h1 class="itemTitle">While You Wait</h1>
-					<h2 class="itemTags">UI design, branding, web development</h2>
+					<h2 class="itemTags">May 2016 - UI/UX design, branding, web development</h2>
 					<img src="img/portfolio/while-you-wait/while-you-wait-top.jpg" class="itemImage itemImageMargin" alt="While You Wait highlights">
 				</section>
 				
 				<section class="portfolioItem">
 					<p class="itemText"><a href="http://project.bgjerlowdesigns.com/Project_2.2_Exam/index.php" class="itemLink">View the live site here</a></p>
 					<h3 class="itemSection">The project</h3>
-					<p class="itemText">For the first-year exam project of the Multimedia Design and Communication programme at Business Academy Aarhus, I and my team (three fellow students) created a visual identity and website for the app While You Wait. While You Wait is an app that helps restaurants, hairdressers and similar businesses with customer management.</p>
+					<p class="itemText">For the first-year exam project of the Multimedia Design and Communication programme at Business Academy Aarhus, I and my team (Lavinia Avadanei, Lasma Pastare, and Jevgenijs Zaicevs) created a visual identity and website for the app While You Wait. While You Wait is an app that helps restaurants, hairdressers and similar businesses with customer management. The timeframe for this project was 4 weeks.</p>
 					<p class="itemText">During this project, my area of focus was on the website design and development. Furthermore, I also took on the role as SCRUM master, making sure that we utilised the SCRUM method throughout the project.</p>
 					<p class="itemText">For a more detailed description of this project and our process, I recommend checking out <a href="archive/while-you-wait-report.pdf" class="itemLink">the report we wrote in connection with it.</a></p>
 				

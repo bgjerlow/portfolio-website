@@ -10,7 +10,7 @@
 			<main class="animated slideInLeft">
 				<section class="portfolioItemIntro" id="forzaHubMobileIntro">
 					<h1 class="itemTitle">Forza Hub Mobile</h1>
-					<h2 class="itemTags">UI design</h2>
+					<h2 class="itemTags">Jan. 2016 - UI/UX design</h2>
 					<img src="img/portfolio/forza-hub-mobile/forza-hub-mobile-top.jpg" class="itemImage itemImageMargin" alt="Forza Hub Mobile highlights">
 				</section>
 				<section class="portfolioItem">
