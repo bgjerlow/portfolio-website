@@ -14,7 +14,7 @@
 				<h2 class="aboutHeader" id="aboutDynamicText">a UI/UX designer</h2>
 				<h2 class="aboutHeader">from Denmark</h2>
 				
-				<p id="aboutHeaderMobile">Hello there. I'm Bo Gjerl&oslash;w, a UI designer &amp; front-end developer from Denmark</p>
+				<p id="aboutHeaderMobile">Hello there. I'm Bo Gjerl&oslash;w, a UI/UX designer &amp; front-end developer from Denmark</p>
 
 				<script>
 					if($(window).width() >= 768){
