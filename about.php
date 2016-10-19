@@ -36,7 +36,7 @@
 								
 				<p class="aboutText">I specialise in UI/UX design and front-end development, but I also know a bit of back-end development and a thing or two about branding. I have an eye for detail, and I always aim to create products with a strong connection to the target audience and a high level of usability.</p>
 				
-				<p class="aboutText">Outside of design, my main interests are cars, motorsport, football, video games, and technology.</p>
+				<p class="aboutText">Outside of design and web development, my main interests are cars, motorsport, computers, and startups.</p>
 				
 				<p class="aboutText">If you would like to get in touch, you can send me an email from the 'Contact' page. I look forward to hearing from you!</p>
 
