@@ -17,7 +17,7 @@
 				<p id="aboutHeaderMobile">Hello there. I'm Bo Gjerl&oslash;w, a UI/UX designer &amp; front-end developer from Denmark</p>
 
 				<script>
-					if($(window).width() >= 768){
+					if($(window).width() >= 768) {
 						$(function () {
   							count = 0;
   							wordsArray = ["a UI/UX designer","a front-end developer","a car enthusiast","an aspiring entrepreneur"];

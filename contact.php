@@ -8,7 +8,7 @@
 		<?php include 'inc/header.php';?>
 
 			<main id="contactContent" class="animated zoomIn">
-				<h2 class="contactHeader">Let's talk</h2>
+				<h2 class="contactHeader">Contact me</h2>
 				<p>If you have any questions, inquiries, or just want to say hi you can do so using the form below. I look forward to hearing from you!</p>
 				
 				<div id="formWrap">

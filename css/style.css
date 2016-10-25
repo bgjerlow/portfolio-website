@@ -43,7 +43,7 @@ nav a {
 	font-family: 'Montserrat', sans-serif;
 	text-decoration: none;
     color: #9c9c9c;
-    font-size: 90%;
+    font-size: 110%;
 }
 
 nav a:hover {
@@ -52,7 +52,6 @@ nav a:hover {
 
 .current {
 	color: #EE6B15;
-	border-bottom: 3px solid #ee6b15;
 }
 
 /* Home page */
