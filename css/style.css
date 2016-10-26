@@ -13,6 +13,26 @@ p {
 	color: #505B64;
 }
 
+.button {
+	border: 2px solid #0A5D94;
+	background: none;
+	font-size: 1.2em;
+	color: #262626;
+	padding: 15px;
+	width: 20%;
+	min-width: 150px;
+	-webkit-appearance: none;
+	cursor: pointer;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.button:hover {
+	background-color: #0A5D94;
+	color: #ffffff;
+	-webkit-appearance: none;
+}
+
 /* Navigation */
 #headerDesktop {
 	height: 80px;
@@ -135,6 +155,10 @@ a.darken img {
 	margin-top: 20px;
 }
 
+#CV {
+	text-align: center;
+}
+
 /* Contact page (including error + thank you pages) */
 #contactContent {
 	margin-top: 25px;
@@ -184,25 +208,6 @@ a.darken img {
 	resize: none;
 	padding-top: 10px;
 	padding-bottom: 10px;
-}
-
-.button {
-	border: 2px solid #0A5D94;
-	background: none;
-	font-size: 1.2em;
-	color: #262626;
-	padding: 15px;
-	border-radius: 50px;
-	width: 20%;
-	min-width: 150px;
-	-webkit-appearance: none;
-	cursor: pointer;
-}
-
-.button:hover {
-	background-color: #0A5D94;
-	color: #ffffff;
-	-webkit-appearance: none;
 }
 
 #wrapperThankYou, #wrapperError {

@@ -39,6 +39,10 @@
 				<p class="aboutText">Outside of design and web development, my main interests are cars, motorsport, computers, and startups.</p>
 				
 				<p class="aboutText">If you would like to get in touch, you can send me an email from the 'Contact' page. I look forward to hearing from you!</p>
+				
+				<div id="CV">
+					<button class="button" onclick="location.href='archive/bo_gjerlow_CV.pdf';">See CV</button>
+				</div>
 
 			</main>
 
