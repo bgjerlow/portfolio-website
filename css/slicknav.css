@@ -83,10 +83,9 @@
   .slicknav_menu * {
     box-sizing: border-box; }
   .slicknav_menu .slicknav_menutxt {
-    color: #fff;
+    color: #EE6B15;
 	  font-family: 'Open Sans', sans-serif;
-    font-weight: bold;
-    text-shadow: 0 1px 3px #000; }
+    font-weight: bold; }
   .slicknav_menu .slicknav_icon-bar {
     background-color: #fff; }
 
@@ -96,11 +95,7 @@
   margin-left: 10px;
   margin-right: 5%;
   text-decoration: none;
-  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
-  background-color: #EE6B15; }
+ }
 
 .slicknav_nav {
   color: #fff;
