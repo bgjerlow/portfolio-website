@@ -10,7 +10,7 @@
 			<main class="animated slideInLeft">
 				<section class="portfolioItemIntro" id="mConsultIntro">
 					<h1 class="itemTitle">MConsult</h1>
-					<h2 class="itemTags">Feb. 2016 - branding</h2>
+					<h2 class="itemTags">Feb. 2016 - Branding</h2>
 					<img src="img/portfolio/mconsult/mconsult-top.jpg" class="itemImage itemImageMargin" alt="MConsult logo">
 				</section>
 				
@@ -24,19 +24,19 @@
 					<p class="itemText">There are two variations of the logo: The small/medium version (intended to be used for stationary items &amp; the web), and the large version (intended to be used for vehicles, banners, and similar). The difference between the two is that the large version has a tagline saying 'Moderne revision' (In English = Modern accounting).</p>
 					<img src="img/portfolio/mconsult/mconsult-logo-variations.jpg" class="itemImage itemImageMargin" alt="MConsult - Logo variations">
 				
-					<h3 class="itemSection">Color scheme &amp; typography</h3>
+					<h3 class="itemSection">Colours &amp; Fonts</h3>
 					<p class="itemText">The logo is made up of three colours: green (to symbolise youth and renewal), blue (to symbolise stability and trust), and grey (to symbolise reliability).</p>
-					<img src="img/portfolio/mconsult/mconsult-logo-color-palette.jpg" class="itemImage itemImageMargin" alt="MConsult - Logo color palette">
+					<img src="img/portfolio/mconsult/mconsult-logo-colour-palette.jpg" class="itemImage itemImageMargin" alt="MConsult - Logo colour palette">
 				
-					<p class="itemText">For the text elements, two typefaces were used: Industry for the 'M' &amp; the tagline, and Acumin Pro ExtraCondensed for the 'Consult' text (minus the 'L').</p>
+					<p class="itemText">For the text elements, two fonts were used: Industry for the 'M' &amp; the tagline, and Acumin Pro ExtraCondensed for the 'Consult' text (minus the 'L').</p>
 					<img src="img/portfolio/mconsult/mconsult-logo-typography.jpg" class="itemImage itemImageMargin" alt="MConsult - Logo typography">
 
-					<h3 class="itemSection">Visual identity</h3>
+					<h3 class="itemSection">Visual Identity</h3>
 					<p class="itemText">A brand element was created in the same colours of the logo to create a recognisable and coherent visual identity.</p>
 					<img src="img/portfolio/mconsult/mconsult-brand-element.jpg" class="itemImage itemImageMargin" alt="MConsult - Brand element">
 
 					<p class="itemText">Two of the colours from the logo, the blue and the grey, are also used for text in letters, brochures etc.</p>
-					<img src="img/portfolio/mconsult/mconsult-text-colors.jpg" class="itemImage itemImageMargin" alt="MConsult - Text colors">
+					<img src="img/portfolio/mconsult/mconsult-text-colours.jpg" class="itemImage itemImageMargin" alt="MConsult - Text colours">
 
 					<p class="itemText">For the text in letters and brochures, Source Sans Pro is used. This font was chosen as it has a high level of readability. For the business cards, Industry Book is used for contact information.</p>
 					<img src="img/portfolio/mconsult/mconsult-visual-identity-typography.jpg" class="itemImage itemImageMargin" alt="MConsult - Visual identity typography">

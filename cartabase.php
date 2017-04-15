@@ -10,7 +10,7 @@
 			<main class="animated slideInLeft">
 				<section class="portfolioItemIntro" id="cartabaseIntro">
 					<h1 class="itemTitle">Cartabase</h1>
-					<h2 class="itemTags">Aug. 2014 - branding</h2>
+					<h2 class="itemTags">Aug. 2014 - Branding</h2>
 					<img src="img/portfolio/cartabase/cartabase-top.jpg" class="itemImage itemImageMargin" alt="Cartabase logo">
 				</section>
 				<section class="portfolioItem">

@@ -15,17 +15,17 @@
 				</section>
 				
 				<section class="portfolioItem">
-					<h3 class="itemSection">The project</h3>
+					<h3 class="itemSection">The Project</h3>
 					<p class="itemText">I decided to start this project as I watch quite a few Liga BBVA matches (mostly when they feature my favourite team, Atlético Madrid) and wanted to see what I could come up with.</p>
-					<p class="itemText">The goal of this project was to create a modern interface with a focus on using images of the club's crests and players rather than plain text elements.</p>
+					<p class="itemText">The goal of this project was to create a modern interface with a focus on using images of the club's crests and players rather than text elements.</p>
 					<p class="itemText">This project is unsolicited and I am not reflecting the views and/or ideas of the Liga BBVA or the company that provides the graphical elements for them.</p>
 
-					<h3 class="itemSection">Choice of fonts and colour palette</h3>
-					<p class="itemText">For this project, I choose to use two typefaces: <a href="https://typekit.com/fonts/alternate-gothic-no-2-d" class="itemLink">Alternate Gothic No. 2 D</a> and <a href="http://bariol.com/" class="itemLink">Bariol.</a></p>
+					<h3 class="itemSection">Colours &amp; Fonts</h3>
+					<p class="itemText">For this project, I choose to use two fonts: <a href="https://typekit.com/fonts/alternate-gothic-no-2-d" class="itemLink">Alternate Gothic No. 2 D</a> and <a href="http://bariol.com/" class="itemLink">Bariol.</a>. I chose those fonts as I thought they complimented each other nicely, and because there is a large amount of contrast between them.</p>
 					<p class="itemText">As for the colour palette, I wanted something that was simple. I choose to go with a dark grey, a light grey, and a dark blue.</p>
-					<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-color-palette.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Color palette">
+					<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-colour-palette.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Colour palette">
 
-					<h3 class="itemSection">The design</h3>
+					<h3 class="itemSection">The Final Design</h3>
 					<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-before-kick-off.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Before kick-off">
 
 					<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-lineup.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Team lineup">
@@ -46,7 +46,7 @@
 
 			<nav class="portfolioNav">
 				<a href="cartabase.php" class="portfolioNavLeft portfolioNavText">&larr; Cartabase</a>
-				<a href="silo-coffee.php" class="portfolioNavRight portfolioNavText">Silo Coffee &rarr;</a>
+				<a href="forza-hub-mobile.php" class="portfolioNavRight portfolioNavText">Forza Hub Mobile &rarr;</a>
 			</nav>
 
 			<?php include 'inc/footer.php';?>

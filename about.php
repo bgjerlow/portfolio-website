@@ -32,13 +32,16 @@
 					}
 				</script>
 				
-				<p class="aboutText">I am currently studying Multimedia Design and Communication at Business Academy Aarhus.</p>
+				<p class="aboutText">I am currently finalising my degree in Multimedia Design and Communication at Business Academy Aarhus where I have been studying for the past two years.</p>
 								
-				<p class="aboutText">I specialise in UI/UX design and front-end development, but I also know a bit of back-end development and a thing or two about branding. I have an eye for detail, and I always aim to create products with a strong connection to the target audience and a high level of usability.</p>
+				<p class="aboutText">I specialise in UI/UX design and front-end development, but I also know a thing or two about branding. I have an eye for detail, and I always aim to create products with a strong connection to the target audience and a high level of usability.</p>
+                
+                <p class="aboutText">I have extensive knowledge of HTML and CSS, and also know some of the basics of JavaScript and jQuery (which I plan to improve in the near future). Recently I also started learning about and using <a href="http://rubyonrails.org" class="itemLink">Ruby On Rails</a>. I use Adobe Photoshop and Illustrator for things like wireframes, mockups, logo design, image resizing and altering, and other graphical tasks</p>
+                
+                <p class="aboutText">I am also used to working with the Scrum Framework and tools like <a href="https://trello.com" class="itemLink">Trello</a>, <a href="https://github.com" class="itemLink">GitHub</a>, and <a href="https://www.invisionapp.com" class="itemLink">InVision</a>.</p>
 				
 				<p class="aboutText">Outside of design and web development, my main interests are cars, motorsport, computers, and startups.</p>
 				
-				<p class="aboutText">If you would like to get in touch, you can send me an email from the 'Contact' page. I look forward to hearing from you!</p>
 				
 				<div id="CV">
 					<button class="button" onclick="location.href='archive/bo-gjerlow-CV.pdf';">See CV</button>

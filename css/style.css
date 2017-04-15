@@ -18,9 +18,8 @@ p {
 	border-radius: 5px;
 	background: none;
 	font-size: 1.2em;
-	color: #262626;
-	padding: 15px 5px 15px 5px;
-	width: 20%;
+	color: #0A5D94;
+	padding: 10px 5px 10px 5px;
 	min-width: 150px;
 	-webkit-appearance: none;
 	cursor: pointer;
@@ -156,10 +155,6 @@ a.darken img {
 	margin-top: 20px;
 }
 
-#CV {
-	text-align: center;
-}
-
 /* Contact page (including error + thank you pages) */
 #contactContent {
 	margin-top: 25px;
@@ -236,6 +231,10 @@ a.darken img {
 	padding-bottom: 25px;
 }
 
+#spotFestivalIntro {
+	background-color: #a13024;
+}
+
 #whileYouWaitIntro {
 	background-color: #0A5D94;
 }
@@ -246,10 +245,6 @@ a.darken img {
 
 #forzaHubMobileIntro {
 	background-color: #c0392b;
-}
-
-#siloCoffeeIntro {
-	background-color: #BCB39E;
 }
 
 #ligaBBVARedesignIntro {
