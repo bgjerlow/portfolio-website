@@ -42,11 +42,7 @@
 				
 				<p class="aboutText">Outside of design and web development, my main interests are cars, motorsport, computers, and startups.</p>
 				
-				
-				<div id="CV">
-					<button class="button" onclick="location.href='archive/bo-gjerlow-CV.pdf';">See CV</button>
-				</div>
-
+				<p class="aboutText">If you would like to get in touch, you can send me an email from the <a href="contact.php" class="itemLink">contact page</a>. I look forward to hearing from you!</p>
 			</main>
 
 			<?php include 'inc/footer.php';?>
