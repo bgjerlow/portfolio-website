@@ -42,9 +42,16 @@
 					<img src="img/portfolio/mconsult/mconsult-visual-identity-typography.jpg" class="itemImage itemImageMargin" alt="MConsult - Visual identity typography">
 
 					<h3 class="itemSection">Mockups</h3>
+                    <h4 class="itemSubtitle">Letterhead, Business Card, and Envelope</h4>
 					<img src="img/portfolio/mconsult/mconsult-stationery-items-mockup.jpg" class="itemImage itemImageMargin" alt="MConsult - Stationery items mockup">
+                    
+                    <h4 class="itemSubtitle">Flyer (Cover)</h4>
 					<img src="img/portfolio/mconsult/mconsult-flyer-mockup.jpg" class="itemImage itemImageMargin" alt="MConsult - Flyer mockup">
+                    
+                    <h4 class="itemSubtitle">Vehicle Branding</h4>
 					<img src="img/portfolio/mconsult/mconsult-vehicle-branding-mockup.jpg" class="itemImage itemImageMargin" alt="MConsult - Vehicle branding mockup">
+                    
+                    <h4 class="itemSubtitle">Roll-up Stand</h4>
 					<img src="img/portfolio/mconsult/mconsult-roll-up-stand-mockup.jpg" class="itemImage itemImageMargin" alt="MConsult - Roll-up stand mockup">
 				</section>
 			</main>

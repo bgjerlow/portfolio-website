@@ -9,7 +9,7 @@ p {
     font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
     font-size: 100%;
-    line-height: 200%;
+    line-height: 2;
 	color: #505B64;
 }
 
@@ -131,7 +131,7 @@ a.darken img {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	font-size: 90%;
-	line-height: 135%;
+	line-height: 1.5;
 	color: #AEAEAE;
 }
 
@@ -146,7 +146,7 @@ a.darken img {
 .aboutHeader {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 220%;
-	line-height: 180%;
+	line-height: 1.8;
 	color: #0A5D94;
 }
 
@@ -167,7 +167,7 @@ a.darken img {
 .contactHeader {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 220%;
-	line-height: 180%;
+	line-height: 1.8;
 	color: #0A5D94;
 }
 
@@ -214,7 +214,7 @@ a.darken img {
 #contactSuccessHeader {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 220%;
-	line-height: 180%;
+	line-height: 1.8;
 	color: #0A5D94;
 }
 
@@ -273,7 +273,7 @@ a.darken img {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	font-size: 90%;
-	line-height: 135%;
+	line-height: 1.35;
 	color: #E9E9E9;
 	margin-bottom: 20px;
 }
@@ -282,7 +282,15 @@ a.darken img {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 600;
 	font-size: 135%;
-	line-height: 202.5%;
+	line-height: 2;
+	color: #414141;
+}
+
+.itemSubtitle {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: 100%;
+	line-height: 2;
 	color: #414141;
 }
 

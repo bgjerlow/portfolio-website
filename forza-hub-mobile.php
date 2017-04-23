@@ -33,11 +33,22 @@
 					<p class="itemText">As for fonts, I decided to use the font-family <a href="https://www.google.com/fonts/specimen/Roboto" class="itemLink">Roboto</a>. I used this font as it is an easy-to-read sans-serif font and because I did not have access to the official font used on iOS (San Francisco). Ideally, the font used in the app should be San Francisco rather than Roboto.</p>
 
 					<h3 class="itemSection">The Final Design</h3>
+                    <h4 class="itemSubtitle">All Screens</h4>
 					<a href="img/portfolio/forza-hub-mobile/forza-hub-mobile-all-screens.jpg"><img src="img/portfolio/forza-hub-mobile/forza-hub-mobile-all-screens.jpg" class="itemImage itemImageMargin" alt="Forza Hub Mobile - All screens"></a>
+                    
+                    <h4 class="itemSubtitle">Login Screen</h4>
 					<img src="img/portfolio/forza-hub-mobile/forza-hub-mobile-login.jpg" class="itemImage itemImageMargin" alt="Forza Hub Mobile - Login">
+                    
+                    <h4 class="itemSubtitle">News Screen</h4>
 					<img src="img/portfolio/forza-hub-mobile/forza-hub-mobile-news.jpg" class="itemImage itemImageMargin" alt="Forza Hub Mobile - News">
+                    
+                    <h4 class="itemSubtitle">Rewards Screen</h4>
 					<img src="img/portfolio/forza-hub-mobile/forza-hub-mobile-rewards.jpg" class="itemImage itemImageMargin" alt="Forza Hub Mobile - Rewards">
+                    
+                    <h4 class="itemSubtitle">Gallery Screen</h4>
 					<img src="img/portfolio/forza-hub-mobile/forza-hub-mobile-gallery.jpg" class="itemImage itemImageMargin" alt="Forza Hub Mobile - Gallery">
+                    
+                    <h4 class="itemSubtitle">Statistics Screen</h4>
 					<img src="img/portfolio/forza-hub-mobile/forza-hub-mobile-stats.jpg" class="itemImage itemImageMargin" alt="Forza Hub Mobile - Statistics">
 				</section>
 			</main>

@@ -26,20 +26,28 @@
 					<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-colour-palette.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Colour palette">
 
 					<h3 class="itemSection">The Final Design</h3>
+                    <h4 class="itemSubtitle">Before Kick-off</h4>
 					<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-before-kick-off.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Before kick-off">
-
+                    
+                    <h4 class="itemSubtitle">Team Lineup</h4>
 					<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-lineup.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Team lineup">
-
+                    
+                    <h4 class="itemSubtitle">Game Score</h4>
 					<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-score.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Score">
-
+                    
+                    <h4 class="itemSubtitle">Detailed Game Score</h4>
 					<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-detailed-score.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Detailed score">
-
+                    
+                    <h4 class="itemSubtitle">Goal Notification</h4>
 					<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-goal.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Goal scored">
-
+                    
+                    <h4 class="itemSubtitle">Substitution Notification</h4>
 					<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-substitution.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Substitution">
-
+                    
+                    <h4 class="itemSubtitle">Booking Notification</h4>
 					<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-booking.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Booking">
-
+                    
+                    <h4 class="itemSubtitle">Game Statistics</h4>
 					<img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-game-statistics.jpg" class="itemImage itemImageMargin" alt="Liga BBVA Redesign - Game statistics">
 				</section>
 			</main>
