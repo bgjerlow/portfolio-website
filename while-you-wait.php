@@ -10,7 +10,7 @@
 			<main class="animated slideInLeft">
 				<section class="portfolioItemIntro" id="whileYouWaitIntro">
 					<h1 class="itemTitle">While You Wait</h1>
-					<h2 class="itemTags">May 2016 - UI/UX design, Web development, Branding</h2>
+					<h2 class="itemTags">May 2016 - UI design, UX design, Web development, Branding</h2>
 					<img src="img/portfolio/while-you-wait/while-you-wait-top.jpg" class="itemImage itemImageMargin" alt="While You Wait highlights">
 				</section>
 				
@@ -24,7 +24,7 @@
 					<h3 class="itemSection">The Final Website</h3>
 					<p class="itemText">Having done field and desk research which gave us a better understanding of the client's product and their customers, we created personas based on the user interviews we conducted. The personas were kept in mind when designing and creating content for the website. During the process of planning/designing/developing the website, we conducted usability tests to ensure that the site was easy to navigate and that it fit with our personas needs.</p>
 				
-					<p class="itemText">The goal of the website is to provide users with an overview of features and benefits of the application, while at the same time contributing to raising the level of trustworthiness of the company through recommendations, thorough contact information, and information about the company (their story, mission, vision and similar. A screenshot of the Home page can be seen below, and <a href="http://project.bgjerlowdesigns.com/Project_2.2_Exam/index.php" class="itemLink">the full website can be seen here</a>.</p>
+					<p class="itemText">The goal of the website is to provide users with an overview of features and benefits of the application, while at the same time contributing to raising the level of trustworthiness of the company through recommendations, thorough contact information, and information about the company (their story, mission, vision and similar). A screenshot of the Home page can be seen below, and <a href="http://project.bgjerlowdesigns.com/Project_2.2_Exam/index.php" class="itemLink">the full website can be seen here</a>.</p>
 					<img src="img/portfolio/while-you-wait/while-you-wait-final.jpg" class="itemImage itemImageMargin" alt="While You Wait homepage design">
 				</section>
 			</main>

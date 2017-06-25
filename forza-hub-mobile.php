@@ -10,14 +10,14 @@
 			<main class="animated slideInLeft">
 				<section class="portfolioItemIntro" id="forzaHubMobileIntro">
 					<h1 class="itemTitle">Forza Hub Mobile</h1>
-					<h2 class="itemTags">Jan. 2016 - UI/UX design</h2>
+					<h2 class="itemTags">Jan. 2016 - UI design, UX design</h2>
 					<img src="img/portfolio/forza-hub-mobile/forza-hub-mobile-top.jpg" class="itemImage itemImageMargin" alt="Forza Hub Mobile highlights">
 				</section>
 				<section class="portfolioItem">
 					<h3 class="itemSection">The Project</h3>
-					<p class="itemText">I started this project as I have been a fan of the Forza racing games for quite some years now, and I felt that they were missing out by not having a mobile application where you can access their content. They currently have an application (Forza Hub) which is available on Xbox and Windows 10.</p>
-					<p class="itemText">Forza Hub allows you to access content related to the game series without having to go to their website. This includes articles, galleries, and most importantly a rewards system that rewards you with in-game credits for playing the Forza games.</p>
-					<p class="itemText">The goal of this project was to create a design proposal of a Forza Hub mobile app that had the core functionality of the console/desktop application while remaining easy to use and optimised for the mobile platform.</p>
+					<p class="itemText">I started this project as I have been a fan of the video-game franchise Forza for quite some years now, and I felt that they were missing out by not having a mobile application where you can access their content. They currently have an application, named Forza Hub, which is available on Xbox and Windows 10.</p>
+					<p class="itemText">Forza Hub allows you to access content related to the game series without having to go to their website. This includes articles, galleries, and most importantly access to redeem in-game rewards. These rewards can be redeemed weekly, but it must be done through the website or the Forza Hub application. There is currently no way to do it inside the Forza games.</p>
+					<p class="itemText">The goal of this project was to create a design proposal of a Forza Hub mobile app that had the core functionality of the console and desktop applications while remaining easy to use and optimised for the mobile platform.</p>
 					<p class="itemText">Please note that this design proposal is unsolicited and does not reflect the views and/or ideas of Turn 10 and Microsoft.</p>
 
 					<h3 class="itemSection">Research</h3>
@@ -33,7 +33,7 @@
 					<p class="itemText">As for fonts, I decided to use the font-family <a href="https://www.google.com/fonts/specimen/Roboto" class="itemLink">Roboto</a>. I used this font as it is an easy-to-read sans-serif font and because I did not have access to the official font used on iOS (San Francisco). Ideally, the font used in the app should be San Francisco rather than Roboto.</p>
 
 					<h3 class="itemSection">The Final Design</h3>
-                    <h4 class="itemSubtitle">All Screens</h4>
+                    <h4 class="itemSubtitle">All Screens (Click to view full size)</h4>
 					<a href="img/portfolio/forza-hub-mobile/forza-hub-mobile-all-screens.jpg"><img src="img/portfolio/forza-hub-mobile/forza-hub-mobile-all-screens.jpg" class="itemImage itemImageMargin" alt="Forza Hub Mobile - All screens"></a>
                     
                     <h4 class="itemSubtitle">Login Screen</h4>

@@ -10,7 +10,7 @@
 			<main class="animated slideInLeft">
 				<section class="portfolioItemIntro" id="spotFestivalIntro">
 					<h1 class="itemTitle">SPOT Festival</h1>
-					<h2 class="itemTags">Dec. 2016 - UI/UX design, Web development</h2>
+					<h2 class="itemTags">Dec. 2016 - UI design, UX design, Web development</h2>
 					<img src="img/portfolio/spot-festival/spot-festival-top.jpg" class="itemImage itemImageMargin" alt="SPOT Festival highlights">
 				</section>
 				<section class="portfolioItem">
