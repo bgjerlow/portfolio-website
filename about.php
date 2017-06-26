@@ -20,7 +20,7 @@
 					if($(window).width() >= 768) {
 						$(function () {
   							count = 0;
-  							wordsArray = ["a UI designer","a front-end developer","a car enthusiast","an aspiring entrepreneur"];
+  							wordsArray = ["a UI designer","a front-end developer","a car enthusiast", "a motorsport fan","an aspiring entrepreneur"];
 					
   							setInterval(function () {
     							count++;
@@ -32,15 +32,15 @@
 					}
 				</script>
 				
-				<p class="aboutText">I am currently finalising my degree in Multimedia Design and Communication at Business Academy Aarhus where I have been studying for the past two years.</p>
+				<p class="aboutText">I am a recent graduate from the Multimedia Design and Communication programme at Business Academy Aarhus. I specialise in user interface design and front-end development, but I also like to work with user experience design, as well as back-end development using Ruby on Rails.</p>
 								
-				<p class="aboutText">I specialise in UI design and front-end development, but I also know a thing or two about branding. I have an eye for detail, and I always aim to create products with a strong connection to the target audience and a high level of usability.</p>
-                
-                <p class="aboutText">I have extensive knowledge of HTML and CSS, and also know some of the basics of JavaScript and jQuery (which I plan to improve in the near future). Recently I also started learning about and using <a href="http://rubyonrails.org" class="itemLink">Ruby On Rails</a>. I use Adobe Photoshop and Illustrator for things like wireframes, mockups, logo design, image resizing and altering, and other graphical tasks</p>
-                
-                <p class="aboutText">I am also used to working with the Scrum Framework and tools like <a href="https://trello.com" class="itemLink">Trello</a>, <a href="https://github.com" class="itemLink">GitHub</a>, and <a href="https://www.invisionapp.com" class="itemLink">InVision</a>.</p>
+				<p class="aboutText">I have extensive knowledge and experience with HTML and CSS and know the basics of JavaScript and jQuery. Recently I also added Ruby on Rails to my skillset and used this language in my final project of my educational programme.</p>
+                                
+                <p class="aboutText">In addition, I am used to working with the Scrum framework and tools like <a href="https://trello.com" class="itemLink">Trello</a>, <a href="https://github.com" class="itemLink">GitHub</a>, and <a href="https://www.invisionapp.com" class="itemLink">InVision</a>.</p>
 				
-				<p class="aboutText">Outside of design and web development, my main interests are cars, motorsport, computers, and startups.</p>
+				<p class="aboutText">In my spare time, I like to watch motorsport (particularly the FIA World Endurance Championship) as well as kicking back and relaxing with some video games. Other interests of mine include cars, football, computers, and start-ups.</p>
+                
+                <p class="aboutText">My interests of course also include design and web development, where I keep up to date with the latest trends and tendencies through reading different articles on <a href="https://medium.com" class="itemLink">Medium</a> and scrolling through <a href="https://dribbble.com" class="itemLink">Dribbble</a>.</p>
 				
 				<p class="aboutText">If you would like to get in touch, you can send me an email from the <a href="contact.php" class="itemLink">contact page</a>. I look forward to hearing from you!</p>
 			</main>
