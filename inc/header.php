@@ -1,18 +1,24 @@
 		<!-- Favicon -->
 		<link rel='shortcut icon' href='img/favicon.ico' type='image/x-icon'>
+
 		<!-- Website styling -->
 		<link rel="stylesheet" type="text/css" href="css/reset.css">
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<link rel="stylesheet" type="text/css" href="css/media-queries.css">
+
 		<!-- Google Fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:400,600" rel="stylesheet"> 
+
 		<!-- Animate.css -->
 		<link rel="stylesheet" type="text/css" href="css/animate.css">
+
 		<!-- jQuery CDN -->
 		<script src="https://code.jquery.com/jquery-3.0.0.min.js" integrity="sha256-JmvOoLtYsmqlsWxa7mDSLMwa6dZ9rrIdtrrVYRnDRH0=" crossorigin="anonymous"></script>
+
 		<!-- SlickNav -->
 		<link rel="stylesheet" href="css/slicknav.css">
 		<script src="js/slicknav.js"></script>
+
 		<!-- Script to add .current to active nav elements -->
 		<script>
 			$(function(){
@@ -23,6 +29,7 @@
 				});
 			});
 		</script>
+
 		<!-- Google Analytics implementation -->
 		<script>
 		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

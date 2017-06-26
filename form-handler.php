@@ -1,6 +1,6 @@
 <?php 
 $errors = '';
-$myemail = 'bgjerlowdesigns@gmail.com';//<-----Put Your email address here.
+$myemail = 'bgjerlowdesigns@gmail.com';
 if(empty($_POST['name'])  || 
    empty($_POST['email']) || 
    empty($_POST['message']))
@@ -29,15 +29,15 @@ if( empty($errors))
 	$headers = "From: $myemail\n"; 
 	$headers .= "Reply-To: $email_address";
 	
-	# PHP mail funktion with 4 parameters
+	# PHP mail function with 4 parameters
 	mail($to,$email_subject,$email_body,$headers);
-	//redirect to the 'thank you' page
+	# Re-direct to the 'Thank You' page
 	header('Location: thank-you.php');
 	
 } 
 ?>
 
-<!-- This page is displayed only if there is some error -->
+<!-- Error Page -->
 <!DOCTYPE html>
 <html lang="en">
 	<head>

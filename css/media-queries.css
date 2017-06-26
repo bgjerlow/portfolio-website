@@ -1,134 +1,137 @@
 @media only screen and (max-width: 1223px) {
 	/* Changing margins on the main containers */
-	#aboutContent {
-		margin-left: 20%;
-		margin-right: 20%;
-	}
-	
-	.portfolioItemIntro {
-		padding-left: 20%;
-		padding-right: 20%;
-	}
-	
-	.portfolioItem, .portfolioNav {
-		margin-left: 20%;
-		margin-right: 20%;
-	}
-	
-	#contactContent {
-		margin-left: 10%;
-		margin-right: 10%;
-	}
+        #aboutContent {
+            margin-left: 20%;
+            margin-right: 20%;
+        }
+
+        .portfolioItemIntro {
+            padding-left: 20%;
+            padding-right: 20%;
+        }
+
+        .portfolioItem, .portfolioNav {
+            margin-left: 20%;
+            margin-right: 20%;
+        }
+
+        #contactContent {
+            margin-left: 10%;
+            margin-right: 10%;
+        }
 }
+
 
 @media only screen and (min-width: 769px) {
 	/* Disabling mobile navigation */
-	.slicknav_menu {
-		display: none;
-	}
-	
-	#navMobile {
-		display: none;
-	}
-	
-	#aboutHeaderMobile {
-		display: none;
-	}
+        .slicknav_menu {
+            display: none;
+        }
+
+        #navMobile {
+            display: none;
+        }
+
+        #aboutHeaderMobile {
+            display: none;
+        }
 }
+
 
 @media only screen and (max-width: 768px) {
 	/* Disabling desktop nav and enabling mobile nav */
-	#headerDesktop {
-		display: none;
-	}
-	
-	.js #navMobile {
-		display: none;
-	}
-	
-	#navMobile {
-		display: none;
-	}
-	
-	#headerMobile {
-		border-bottom: 2px solid #F8F9F9;
-	}
-	
-	.js .slicknav_menu {
-		display: block;
-	}
-	
-	#siteLogoMobile {
-		float: left;
-		width: 40%;
-		max-width: 150px;
-		margin-top: 10px;
-		margin-bottom: 10px;
-		margin-left: 5%;
-	}
+        #headerDesktop {
+            display: none;
+        }
+
+        .js #navMobile {
+            display: none;
+        }
+
+        #navMobile {
+            display: none;
+        }
+
+        #headerMobile {
+            border-bottom: 2px solid #F8F9F9;
+        }
+
+        .js .slicknav_menu {
+            display: block;
+        }
+
+        #siteLogoMobile {
+            float: left;
+            width: 40%;
+            max-width: 150px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            margin-left: 5%;
+        }
+    
 	/* Changing margins on page containers */
-	#homeContent, #aboutContent, .portfolioItem, .portfolioNav {
-		margin-left: 5%;
-		margin-right: 5%;
-	}
-	
-	.portfolioItemIntro {
-		padding-left: 5%;
-		padding-right: 5%;
-	}
-	
+        #homeContent, #aboutContent, .portfolioItem, .portfolioNav {
+            margin-left: 5%;
+            margin-right: 5%;
+        }
+
+        .portfolioItemIntro {
+            padding-left: 5%;
+            padding-right: 5%;
+        }
 	
 	/* Changing settings for 'Home' page */
-	.portfolioPreview {
-		flex: 1 0 100%;;
-	}
-	
-	.middleMargin {
-		margin-left: 0;
-		margin-right: 0;
-	}
+        .portfolioPreview {
+            flex: 1 0 100%;;
+        }
+
+        .middleMargin {
+            margin-left: 0;
+            margin-right: 0;
+        }
+    
 	/* Hiding the 'About' header w/ dynamic text from mobile */
-	.aboutHeader {
-		display: none;
-	}
-	
-	#aboutHeaderMobile {
-		color: #0A5D94;
-		font-weight: 700;
-	}
-	
-	#contactForm {
-		margin-right: 5%;
-		margin-left: 5%;
-	}
+        .aboutHeader {
+            display: none;
+        }
+
+        #aboutHeaderMobile {
+            color: #0A5D94;
+            font-weight: 700;
+        }
+
+        #contactForm {
+            margin-right: 5%;
+            margin-left: 5%;
+        }
 }
 
 /* IE10+ settings */
-@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-	#homeContent {
-		display: block;
-		width: 100%;
-		margin: 0 auto;
-	}
+    @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+        #homeContent {
+            display: block;
+            width: 100%;
+            margin: 0 auto;
+        }
 
-	.previewImage {
-		width: 100%;
-	}
-	
-	.middleMargin {
-		margin-left: 0;
-		margin-right: 0;
-	}
-	
-	#aboutContent {
-		display: block;
-	}
-	
-	#contactContent {
-		display: block;
-	}
-	
-	.portfolioItem {
-		display: block;
-	}
-}
+        .previewImage {
+            width: 100%;
+        }
+
+        .middleMargin {
+            margin-left: 0;
+            margin-right: 0;
+        }
+
+        #aboutContent {
+            display: block;
+        }
+
+        #contactContent {
+            display: block;
+        }
+
+        .portfolioItem {
+            display: block;
+        }
+    }
