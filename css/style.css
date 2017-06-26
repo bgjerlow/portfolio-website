@@ -369,8 +369,7 @@
     .icons {
         margin-right: 20px;
         margin-left: 20px;
-        width: 2%;
-        min-width: 30px;
+        width: 30px;
     }
 
     /* Making the footer stick to the bottom of the pages */
