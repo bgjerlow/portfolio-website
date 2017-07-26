@@ -17,7 +17,7 @@
 
 		<!-- SlickNav -->
 		<link rel="stylesheet" href="css/slicknav.css">
-		<script src="js/slicknav.js"></script>
+		<script src="scripts/slicknav.js"></script>
 
 		<!-- Script to add .current to active nav elements -->
 		<script>

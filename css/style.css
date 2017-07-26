@@ -17,10 +17,10 @@
         border: 1px solid #0A5D94;
         border-radius: 2.5px;
         background: none;
-        font-size: 1.2em;
+        font-size: 100%;
         color: #0A5D94;
         padding: 10px 5px 10px 5px;
-        min-width: 150px;
+        min-width: 100px;
         -webkit-appearance: none;
         cursor: pointer;
         margin-left: auto;
@@ -198,6 +198,12 @@
         height: 50px;
     }
 
+    .fields:focus, .message:focus {
+        background-color: white;
+        outline: none;
+        border: 1px solid #EE6B15;
+    }
+
     .fields[placeholder], .message[placeholder] {
         padding-left: 10px;
         padding-right: 10px;
@@ -210,21 +216,32 @@
         padding-bottom: 10px;
     }
 
-    #wrapperThankYou, #wrapperError {
-        margin-top: 25px;
-        text-align: center;
-    }
-
-    #contactSuccessHeader {
-        font-family: 'Montserrat', sans-serif;
-        font-size: 220%;
-        line-height: 1.8;
-        color: #0A5D94;
-    }
-
-    #contactErrorText, #contactSuccessText {
-        margin-bottom: 20px;
+    #formMessages {
         margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+    }
+
+    .success {
+        padding: 10px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 100%;
+        line-height: 2;
+        color: #fff;
+        background-color: #00A86B;
+        border-radius: 4px;
+    }
+
+    .error {
+        padding: 10px;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 100%;
+        line-height: 2;
+        color: #fff;
+        background-color: #D73B3E;
+        border-radius: 4px;
     }
 
 
