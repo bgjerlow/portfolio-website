@@ -20,7 +20,7 @@
 					if($(window).width() >= 768) {
 						$(function () {
   							count = 0;
-  							wordsArray = ["a UI designer","a front-end developer","a car enthusiast", "a motorsport fan","an aspiring entrepreneur"];
+  							wordsArray = ["a UI designer","a front-end developer","a car enthusiast", "a motorsport fan"];
 					
   							setInterval(function () {
     							count++;
