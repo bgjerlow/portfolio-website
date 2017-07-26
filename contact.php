@@ -29,38 +29,38 @@
             <script>
             /* Form validation script for form in Contact Us section */
             $(function () {
-                // Get the form.
+                /* Get the form */
                 var form = $('#contactForm');
-                // Get the messages div.
+                /* Get the messages div */
                 var formMessages = $('#formMessages');
-                // Set up an event listener fo the contact form.
+                /* Set up an event listener fo the contact form */
                 $(form).submit(function (e) {
-                    // Stop the browser from submitting the form.
+                    /* Stop the browser from submitting the form */
                     e.preventDefault();
-                    // Serialize the form data.
+                    /* Serialize the form data */
                     var formData = $(form).serialize();
-                    // Submit the form using AJAX.
+                    /* Submit the form using AJAX */
                     $.ajax({
                             type: 'POST',
                             url: $(form).attr('action'),
                             data: formData
                         })
                         .done(function (response) {
-                            // Make sure that the formMessages div has the 'success' class.
+                            /* Make sure that the formMessages div has the 'success' class */
                             $(formMessages).removeClass('error');
                             $(formMessages).addClass('success');
-                            // Set the message text.
+                            /* Set the message text */
                             $(formMessages).text(response);
-                            // Clear the form.
+                            /* Clear the form */
                             $('#name').val('');
                             $('#email').val('');
                             $('#message').val('');
                         })
                         .fail(function (data) {
-                            // Make sure that the formMessages div has the 'error' class.
+                            /* Make sure that the formMessages div has the 'error' class */
                             $(formMessages).removeClass('success');
                             $(formMessages).addClass('error');
-                            // Set the message text.
+                            /* Set the message text */
                             if (data.responseText !== '') {
                                 $(formMessages).text(data.responseText);
                             } else {
