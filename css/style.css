@@ -78,63 +78,116 @@
 
 /* Home page */
     #homeContent {
+        display: -webkit-inline-box;
+        display: -ms-inline-flexbox;
         display: inline-flex;
+        -ms-flex-wrap: wrap;
         flex-wrap: wrap;
         margin-left: 10%;
         margin-right: 10%;
-        margin-top: 5px;
-        margin-bottom: 25px;
     }
 
     .portfolioPreview {
         text-align: center;
-        flex: 1 0 23%;
+        -webkit-box-flex: 1;
+        -ms-flex: 1 0 30%;
+        flex: 1 0 30%;
         margin-top: 20px;
         margin-bottom: 20px;
     }
 
-    a.darken {
-        display: inline-block;
-        background: black;
-        padding: 0;
-    }
-
-    a.darken img {
-        display: block;
-    }
-
     .middleMargin {
-        margin-left: 12.5%;
-        margin-right: 12.5%;
+        margin-left: 5%;
+        margin-right: 5%;
     }
 
-    .previewImage {
-        max-width: 100%;
+    .content {
+        position: relative;
+        margin: auto;
+        overflow: hidden;
     }
 
-    .portfolioPreview a {
+    .content .contentOverlay {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        opacity: 0;
+        border-radius: 2.5px;
+    }
+
+    .content:hover .contentOverlay{
+        opacity: 1;
+    }
+
+    .contentImage{
+        width: 100%;
+        display: block;
+        border-radius: 2.5px;
+    }
+
+    .contentDetails {
+        position: absolute;
+        text-align: center;
+        width: 100%;
+        top: 50%;
+        left: 50%;
+        opacity: 0;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    }
+
+    .contentDetails h2 {
         font-family: 'Montserrat', sans-serif;
         font-size: 120%;
-        text-transform: uppercase;
         text-decoration: none;
-        color: #0A5D94;
+        color: #fff;
+        padding-left: 10%;
+        padding-right: 10%;
     }
 
-    .portfolioPreview a:hover {
-        color: #262626;
-    }
-
-    .previewText {
-        margin-top: 20px;
-        margin-bottom: 5px;
-    }
-
-    .previewTags {
+    .contentDetails h3 {
+        margin-top: 10px;
         font-family: 'Open Sans', sans-serif;
         font-weight: 400;
         font-size: 90%;
         line-height: 1.5;
-        color: #AEAEAE;
+        color: #E9E9E9;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .content:hover .contentDetails{
+        top: 50%;
+        left: 50%;
+        opacity: 1;
+    }
+
+    #spotFestivalOverlay {
+        background: #a13024
+    }
+
+    #whileYouWaitOverlay {
+        background: #0A5D94;
+    }
+
+    #mConsultOverlay {
+        background: #27ae60;
+    }
+
+    #forzaHubMobileOverlay {
+        background: #c0392b;
+    }
+
+    #ligaBBVARedesignOverlay {
+        background: #2c3e50;
+    }
+
+    #cartabaseOverlay {
+        background: #e67e22;
     }
 
 
@@ -159,7 +212,7 @@
     }
 
 
-/* Contact page (including error + thank you pages) */
+/* Contact page */
     #contactContent {
         margin-top: 25px;
         margin-bottom: 25px;
@@ -192,6 +245,7 @@
         color: #333;
         border: 1px solid #c1c1c1;
         background-color: #F5F5F5;
+        border-radius: 2.5px;
     }
 
     .fields {
@@ -251,6 +305,10 @@
         padding-right: 25%;
         padding-top: 25px;
         padding-bottom: 25px;
+    }
+
+    .portfolioItemIntro img {
+        border-radius: 2.5px;
     }
 
     #spotFestivalIntro {
