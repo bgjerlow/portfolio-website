@@ -13,6 +13,10 @@
         color: #505B64;
     }
 
+    strong {
+        font-weight: 600;
+    }
+
     .button {
         border: 1px solid #0A5D94;
         border-radius: 2.5px;
