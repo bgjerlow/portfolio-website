@@ -1,13 +1,3 @@
-/* Script to add .current to active nav elements */
-$(function () {
-    $('#navDesktop a').each(function () {
-        if ($(this).prop('href') == window.location.href) {
-            $(this).addClass('current');
-        }
-    });
-});
-
-
 /* Initializing Slicknav menu for mobile */
 $(function () {
     $('#navMobile').slicknav();

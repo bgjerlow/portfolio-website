@@ -15,6 +15,17 @@
 <!-- SlickNav -->
 <link rel="stylesheet" href="css/slicknav.css">
 
+<!-- Script to add .current to active nav elements -->
+<script>
+    $(function() {
+        $('#navDesktop a').each(function() {
+            if ($(this).prop('href') == window.location.href) {
+                $(this).addClass('current');
+            }
+        });
+    });
+</script>
+
 <!-- Google Analytics -->
 <script>
     (function(i, s, o, g, r, a, m) {
