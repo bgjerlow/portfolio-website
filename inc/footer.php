@@ -9,9 +9,8 @@
 </footer>
 
 <!-- Scripts -->
-<script src="https://code.jquery.com/jquery-3.0.0.min.js" integrity="sha256-JmvOoLtYsmqlsWxa7mDSLMwa6dZ9rrIdtrrVYRnDRH0=" crossorigin="anonymous"></script>
 <script src="scripts/slicknav.js"></script>
-<script src="scripts/scripts.js"></script>
+<script src="scripts/scripts.js?v=1.0.0"></script>
 
 </body>
 
