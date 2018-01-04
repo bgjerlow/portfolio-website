@@ -33,15 +33,15 @@
             }
         </script>
 
-        <p class="aboutText">I am a recent graduate from the Multimedia Design and Communication programme at Business Academy Aarhus. I specialise in user interface design and front-end development, but I also like to work with user experience design, as well as back-end development using Ruby on Rails.</p>
+        <p class="aboutText">I am a Multimedia Designer from Denmark specialising in user interface design and front-end development. I am passionate about creating beautiful user interfaces with a focus on the user experience.</p>
 
-        <p class="aboutText">I have extensive knowledge and experience with HTML and CSS and know the basics of JavaScript and jQuery. Recently I also added Ruby on Rails to my skillset and used this language in my final project of my educational programme.</p>
+        <p class="aboutText">I have extensive knowledge and experience with HTML and CSS and know the basics of JavaScript and jQuery. Furthermore, I am proficient in Adobe Illustrator and Adobe Photoshop, and have experience working with Ruby on Rails.</p>
 
         <p class="aboutText">In addition, I am used to working with the Scrum framework and tools like <a href="https://trello.com" class="itemLink">Trello</a>, <a href="https://github.com" class="itemLink">GitHub</a>, and <a href="https://www.invisionapp.com" class="itemLink">InVision</a>.</p>
 
-        <p class="aboutText">In my spare time, I like to watch motorsport (particularly the FIA World Endurance Championship) as well as kicking back and relaxing with some video games. Other interests of mine include cars, football, computers, and start-ups.</p>
+        <p class="aboutText">In my spare time, I like to watch motorsport (particularly the FIA World Endurance Championship) as well as kicking back and relaxing with some video games. Other interests of mine include cars, football, computers, and startups.</p>
 
-        <p class="aboutText">My interests of course also include design and web development, where I keep up to date with the latest trends and tendencies through reading different articles on <a href="https://medium.com" class="itemLink">Medium</a> and scrolling through <a href="https://dribbble.com" class="itemLink">Dribbble</a>.</p>
+        <p class="aboutText">My interests also include design and web development, where I keep up to date with the latest trends and tendencies through reading different articles on <a href="https://medium.com" class="itemLink">Medium</a> and scrolling through <a href="https://dribbble.com" class="itemLink">Dribbble</a>.</p>
 
         <p class="aboutText">If you would like to get in touch, you can send me an email from the <a href="contact.php" class="itemLink">contact page</a>. I look forward to hearing from you!</p>
     </main>
