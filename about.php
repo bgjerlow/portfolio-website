@@ -33,7 +33,7 @@
             }
         </script>
 
-        <p class="aboutText">I am passionate about creating beautiful user interfaces with a focus on the user experience. I also have a degree in Multimedia Design and Communication from Business Academy Aarhus</p>
+        <p class="aboutText">I am passionate about creating beautiful user interfaces with a focus on the user experience. I also have a degree in Multimedia Design and Communication from Business Academy Aarhus.</p>
 
         <p class="aboutText">I have extensive knowledge and experience with HTML and CSS and know the basics of JavaScript and jQuery. Furthermore, I am proficient in Adobe Illustrator and Adobe Photoshop, and have experience working with Ruby on Rails.</p>
 
