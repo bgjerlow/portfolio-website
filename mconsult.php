@@ -58,8 +58,8 @@
     </main>
 
     <nav class="portfolioNav">
-        <a href="forza-hub-mobile.php" class="portfolioNavLeft portfolioNavText">&larr; Forza Hub Mobile</a>
-        <a href="while-you-wait.php" class="portfolioNavRight portfolioNavText">While You Wait &rarr;</a>
+        <a href="forza-hub-mobile.php" class="portfolioNavLeft portfolioNavText">&#9664; Forza Hub Mobile</a>
+        <a href="while-you-wait.php" class="portfolioNavRight portfolioNavText">While You Wait &#9654;</a>
     </nav>
 
     <?php include 'inc/footer.php';?>
