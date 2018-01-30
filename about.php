@@ -17,22 +17,6 @@
 
         <p id="aboutHeaderMobile">Hello there. I'm Bo Gjerl&oslash;w, a UI designer &amp; front-end developer from Denmark</p>
 
-        <script>
-            if ($(window).width() >= 768) {
-                $(function() {
-                    count = 0;
-                    wordsArray = ["a UI designer", "a front-end developer", "a car enthusiast", "a motorsport fan"];
-
-                    setInterval(function() {
-                        count++;
-                        $("#aboutDynamicText").fadeOut(400, function() {
-                            $(this).text(wordsArray[count % wordsArray.length]).fadeIn(400);
-                        });
-                    }, 2000);
-                });
-            }
-        </script>
-
         <p class="aboutText">I am passionate about creating beautiful user interfaces with a focus on the user experience. I also have a degree in Multimedia Design and Communication from Business Academy Aarhus.</p>
 
         <p class="aboutText">I have extensive knowledge and experience with HTML and CSS and know the basics of JavaScript and jQuery. Furthermore, I am proficient in Adobe Illustrator and Adobe Photoshop, and have experience working with Ruby on Rails.</p>
