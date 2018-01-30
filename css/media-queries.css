@@ -89,7 +89,8 @@
         -webkit-box-flex: 1;
         -ms-flex: 1 0 100%;
         flex: 1 0 100%;
-        ;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
 
     .middleMargin {
@@ -126,8 +127,8 @@
     }
 }
 
-/* IE10+ settings */
 
+/* IE10+ settings */
 @media all and (-ms-high-contrast: none),
 (-ms-high-contrast: active) {
     #homeContent {
