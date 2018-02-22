@@ -32,8 +32,8 @@
     </main>
 
     <nav class="portfolioNav">
-        <a href="mconsult.php" class="portfolioNavLeft portfolioNavText">&#9664; MConsult</a>
-        <a href="spot-festival.php" class="portfolioNavRight portfolioNavText">SPOT Festival &#9654;</a>
+        <a href="mconsult" class="portfolioNavLeft portfolioNavText">&#9664; MConsult</a>
+        <a href="spot-festival" class="portfolioNavRight portfolioNavText">SPOT Festival &#9654;</a>
     </nav>
 
     <?php include 'inc/footer.php';?>

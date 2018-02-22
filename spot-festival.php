@@ -34,7 +34,7 @@
     </main>
 
     <nav class="portfolioNav">
-        <a href="while-you-wait.php" class="portfolioNavLeft portfolioNavText">&#9664; While You Wait</a>
+        <a href="while-you-wait" class="portfolioNavLeft portfolioNavText">&#9664; While You Wait</a>
     </nav>
 
     <?php include 'inc/footer.php';?>

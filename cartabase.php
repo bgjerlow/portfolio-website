@@ -28,7 +28,7 @@
     </main>
 
     <nav class="portfolioNav">
-        <a href="liga-bbva-redesign.php" class="portfolioNavRight portfolioNavText">Liga BBVA Redesign &#9654;</a>
+        <a href="liga-bbva-redesign" class="portfolioNavRight portfolioNavText">Liga BBVA Redesign &#9654;</a>
     </nav>
 
     <?php include 'inc/footer.php';?>

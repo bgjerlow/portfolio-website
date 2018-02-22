@@ -55,8 +55,8 @@
     </main>
 
     <nav class="portfolioNav">
-        <a href="liga-bbva-redesign.php" class="portfolioNavLeft portfolioNavText">&#9664; Liga BBVA Redesign</a>
-        <a href="mconsult.php" class="portfolioNavRight portfolioNavText">MConsult &#9654;</a>
+        <a href="liga-bbva-redesign" class="portfolioNavLeft portfolioNavText">&#9664; Liga BBVA Redesign</a>
+        <a href="mconsult" class="portfolioNavRight portfolioNavText">MConsult &#9654;</a>
     </nav>
 
     <?php include 'inc/footer.php';?>

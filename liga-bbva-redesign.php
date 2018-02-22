@@ -54,8 +54,8 @@
     </main>
 
     <nav class="portfolioNav">
-        <a href="cartabase.php" class="portfolioNavLeft portfolioNavText">&#9664; Cartabase</a>
-        <a href="forza-hub-mobile.php" class="portfolioNavRight portfolioNavText">Forza Hub Mobile &#9654;</a>
+        <a href="cartabase" class="portfolioNavLeft portfolioNavText">&#9664; Cartabase</a>
+        <a href="forza-hub-mobile" class="portfolioNavRight portfolioNavText">Forza Hub Mobile &#9654;</a>
     </nav>
 
     <?php include 'inc/footer.php';?>
