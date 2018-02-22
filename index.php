@@ -17,7 +17,7 @@
     <main id="homeContent" class="animated zoomIn">
         <div class="portfolioPreview">
             <div class="content">
-                <a href="spot-festival.php">
+                <a href="spot-festival">
                     <div class="contentOverlay" id="spotFestivalOverlay"></div>
                     <img src="img/portfolio/spot-festival/spot-festival-preview.jpg" class="contentImage" alt="Spot Festival">
                     <div class="contentDetails">
@@ -30,7 +30,7 @@
 
         <div class="portfolioPreview middleMargin">
             <div class="content">
-                <a href="while-you-wait.php">
+                <a href="while-you-wait">
                     <div class="contentOverlay" id="whileYouWaitOverlay"></div>
                     <img src="img/portfolio/while-you-wait/while-you-wait-preview.jpg" class="contentImage" alt="Spot Festival">
                     <div class="contentDetails">
@@ -43,7 +43,7 @@
 
         <div class="portfolioPreview">
             <div class="content">
-                <a href="mconsult.php">
+                <a href="mconsult">
                     <div class="contentOverlay" id="mConsultOverlay"></div>
                     <img src="img/portfolio/mconsult/mconsult-preview.jpg" class="contentImage" alt="Spot Festival">
                     <div class="contentDetails">
@@ -56,7 +56,7 @@
 
         <div class="portfolioPreview">
             <div class="content">
-                <a href="forza-hub-mobile.php">
+                <a href="forza-hub-mobile">
                     <div class="contentOverlay" id="forzaHubMobileOverlay"></div>
                     <img src="img/portfolio/forza-hub-mobile/forza-hub-mobile-preview.jpg" class="contentImage" alt="Spot Festival">
                     <div class="contentDetails">
@@ -69,7 +69,7 @@
 
         <div class="portfolioPreview middleMargin">
             <div class="content">
-                <a href="liga-bbva-redesign.php">
+                <a href="liga-bbva-redesign">
                     <div class="contentOverlay" id="ligaBBVARedesignOverlay"></div>
                     <img src="img/portfolio/liga-bbva-redesign/liga-bbva-redesign-preview.jpg" class="contentImage" alt="Spot Festival">
                     <div class="contentDetails">
@@ -82,7 +82,7 @@
 
         <div class="portfolioPreview">
             <div class="content">
-                <a href="cartabase.php">
+                <a href="cartabase">
                     <div class="contentOverlay" id="cartabaseOverlay"></div>
                     <img src="img/portfolio/cartabase/cartabase-preview.jpg" class="contentImage" alt="Spot Festival">
                     <div class="contentDetails">

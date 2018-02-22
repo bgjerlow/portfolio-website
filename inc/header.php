@@ -42,16 +42,16 @@
         <nav id="headerDesktop">
             <a href="index.php"><img src="img/logo.svg" id="siteLogo" alt="Bo Gjerløw"></a>
             <ul id="navDesktop">
-                <li class="navItemDesktop"><a href="index.php" id="work">WORK</a></li>
-                <li class="navItemDesktop"><a href="about.php">ABOUT</a></li>
-                <li class="navItemDesktop"><a href="contact.php">CONTACT</a></li>
+                <li class="navItemDesktop"><a href="index" id="work">WORK</a></li>
+                <li class="navItemDesktop"><a href="about">ABOUT</a></li>
+                <li class="navItemDesktop"><a href="contact">CONTACT</a></li>
             </ul>
         </nav>
 
         <nav id="headerMobile">
             <ul id="navMobile">
-                <li class="navItemMobile"><a href="index.php">Work</a></li>
-                <li class="navItemMobile"><a href="about.php">About</a></li>
-                <li class="navItemMobile"><a href="contact.php">Contact</a></li>
+                <li class="navItemMobile"><a href="index">Work</a></li>
+                <li class="navItemMobile"><a href="about">About</a></li>
+                <li class="navItemMobile"><a href="contact">Contact</a></li>
             </ul>
         </nav>
