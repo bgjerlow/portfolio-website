@@ -4,7 +4,7 @@ $(function () {
 });
 
 $(function () {
-    $('.slicknav_menu').prepend('<a href="index.php"><img id="siteLogoMobile" src="img/logo-mobile.svg" alt="Bo Gjerløw"/></a>');
+    $('.slicknav_menu').prepend('<a href="index"><img id="siteLogoMobile" src="img/logo-mobile.svg" alt="Bo Gjerløw"/></a>');
 });
 
 /* Add .current to active nav elements */
