@@ -40,7 +40,7 @@
 <body>
     <div class="wrapper">
         <nav id="headerDesktop">
-            <a href="index.php"><img src="img/logo.svg" id="siteLogo" alt="Bo Gjerløw"></a>
+            <a href="index"><img src="img/logo.svg" id="siteLogo" alt="Bo Gjerløw"></a>
             <ul id="navDesktop">
                 <li class="navItemDesktop"><a href="index" id="work">WORK</a></li>
                 <li class="navItemDesktop"><a href="about">ABOUT</a></li>
