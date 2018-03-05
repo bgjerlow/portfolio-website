@@ -27,7 +27,7 @@
 
         <p class="aboutText">My interests also include design and web development, where I keep up to date with the latest trends and tendencies through reading different articles on <a href="https://medium.com" class="itemLink">Medium</a> and scrolling through <a href="https://dribbble.com" class="itemLink">Dribbble</a>.</p>
 
-        <p class="aboutText">If you would like to get in touch, you can send me an email from the <a href="contact.php" class="itemLink">contact page</a>. I look forward to hearing from you!</p>
+        <p class="aboutText">If you would like to get in touch, you can send me an email from the <a href="contact" class="itemLink">contact page</a>. I look forward to hearing from you!</p>
     </main>
 
     <?php include 'inc/footer.php';?>
