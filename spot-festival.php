@@ -15,7 +15,7 @@
             <img src="img/portfolio/spot-festival/spot-festival-top.jpg" class="itemImage itemImageMargin" alt="SPOT Festival highlights">
         </section>
         <section class="portfolioItem">
-            <p class="itemText"><a href="http://project.bgjerlowdesigns.com/Project_3.2" class="itemLink">View the live site here</a></p>
+            <p class="itemText"><a href="http://project.bogjerlow.com/Project_3.2" class="itemLink">View the live site here</a></p>
 
             <h3 class="itemSection">The project</h3>
             <p class="itemText">For the 3rd-semester exam project of the Multimedia Design and Communication programme at Business Academy Aarhus, I and my team (Jevgenijs Zaicevs, Viliam Birmon, and Milan Kharel) created a campaign website for a Danish music and film festival named SPOT Festival. The timeframe for the project was 6 weeks.</p>
