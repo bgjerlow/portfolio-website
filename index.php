@@ -17,6 +17,19 @@
     <main id="homeContent" class="animated zoomIn">
         <div class="portfolioPreview">
             <div class="content">
+                <a href="carswip">
+                    <div class="contentOverlay" id="carswipOverlay"></div>
+                    <img src="img/portfolio/carswip/carswip-preview.jpg" class="contentImage" alt="Spot Festival">
+                    <div class="contentDetails">
+                        <h2>Carswip</h2>
+                        <h3>Web Development, Web Content, UI design, UX design</h3>
+                    </div>
+                </a>
+            </div>
+        </div>
+        
+        <div class="portfolioPreview middleMargin">
+            <div class="content">
                 <a href="spot-festival">
                     <div class="contentOverlay" id="spotFestivalOverlay"></div>
                     <img src="img/portfolio/spot-festival/spot-festival-preview.jpg" class="contentImage" alt="Spot Festival">
@@ -28,7 +41,7 @@
             </div>
         </div>
 
-        <div class="portfolioPreview middleMargin">
+        <div class="portfolioPreview">
             <div class="content">
                 <a href="while-you-wait">
                     <div class="contentOverlay" id="whileYouWaitOverlay"></div>
@@ -36,19 +49,6 @@
                     <div class="contentDetails">
                         <h2>While You Wait</h2>
                         <h3>UI design, UX design, Web development, Branding</h3>
-                    </div>
-                </a>
-            </div>
-        </div>
-
-        <div class="portfolioPreview">
-            <div class="content">
-                <a href="mconsult">
-                    <div class="contentOverlay" id="mConsultOverlay"></div>
-                    <img src="img/portfolio/mconsult/mconsult-preview.jpg" class="contentImage" alt="Spot Festival">
-                    <div class="contentDetails">
-                        <h2>MConsult</h2>
-                        <h3>Branding</h3>
                     </div>
                 </a>
             </div>
