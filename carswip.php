@@ -23,7 +23,7 @@
 
             <p class="itemText">Carswip is a Danish startup who specialises in photo optimisation for used car dealerships. They currently work with some of the biggest and most exclusive used car dealerships in Denmark, and are growing rapidly.</p>
             
-            <p class="itemText">When I took over, parts of the project were already in place. The general design of the website had been defined, and the development in Ruby On Rails had been begun. While four of the website’s pages (Home, Pricing, About Us, and Contact) had been started on, significant changes were made to the design and layout of these pages. In addition, pages for Cases and the Catalogue page were created from scratch.</p>
+            <p class="itemText">When I took over, parts of the project were already in place. The general design of the website had been defined, and the development in Ruby On Rails had been begun. While four of the website’s pages (Home, Pricing, About Us, and Contact) had been started on, significant changes were made to the design and layout of these pages. In addition pages for Cases, the Catalogue and the Calculator were created from scratch.</p>
 
             <p class="itemText">The new Carswip website was launched on December 21st 2017, and can be seen at <a href="http://www.carswip.com/" class="itemLink">www.carswip.com</a></p>
             
