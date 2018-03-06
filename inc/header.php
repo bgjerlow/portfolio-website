@@ -3,7 +3,7 @@
 
 <!-- Website styling -->
 <link rel="stylesheet" type="text/css" href="css/reset.css">
-<link rel="stylesheet" type="text/css" href="css/style.css?v=1.1.0">
+<link rel="stylesheet" type="text/css" href="css/style.css?v=1.1.1">
 <link rel="stylesheet" type="text/css" href="css/media-queries.css?v=1.1.0">
 
 <!-- Google Fonts -->

@@ -11,7 +11,7 @@
     <main class="animated slideInLeft">
         <section class="portfolioItemIntro" id="carswipIntro">
             <h1 class="itemTitle">Carswip</h1>
-            <h2 class="itemTags">Web Development, Web Content, UI design, UX design</h2>
+            <h2 class="itemTags">Web development, Web content, UI design, UX design</h2>
             <img src="img/portfolio/carswip/carswip-top.jpg" class="itemImage itemImageMargin" alt="Carswip">
         </section>
 
@@ -30,7 +30,7 @@
             <h3 class="itemSection">The Final Website</h3>
             <p class="itemText">The full final website can be seen at <a href="http://www.carswip.com/" class="itemLink">www.carswip.com</a></p>
             
-            <p class="itemText">To give an idea of the level of adjustments/changes that were made to the existing pages between me taking over and the website being launched, a comparison of the Home page can be seen below (click to view full-size)</p>
+            <p class="itemText">To give an idea of the level of adjustments/changes that were made to the existing pages between me taking over and the website being launched, a comparison of the Home page can be seen below (click to view full-size).</p>
             
             <h4 class="itemSubtitle">Home Page - Before (left) and after (right)</h4>
             <a href="img/portfolio/carswip/carswip-home-page-comparison.jpg"><img src="img/portfolio/carswip/carswip-home-page-comparison.jpg" class="itemImage itemImageMargin" alt="Carswip - Home page comparison"></a>
