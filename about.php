@@ -11,7 +11,7 @@
     <?php include 'inc/header.php';?>
 
     <main id="aboutContent" class="animated zoomIn">
-        <p id="aboutIntro" class="aboutText">I am Bo Gjerl&oslash;w, a multimedia designer based in Denmark. </br>
+        <p id="aboutIntro" class="aboutText">I'm Bo Gjerl&oslash;w, a multimedia designer based in Denmark. </br>
         I specialise in user interface design and front-end development, but I also enjoy working with user experience design and back-end development using Ruby On Rails.</p>
 
         <p class="aboutText">I am passionate about creating beautiful user interfaces with a focus on the user experience. I also keep up to date with the latest trends and tendencies within UI/UX design and web development.</p>
