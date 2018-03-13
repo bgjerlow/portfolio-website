@@ -10,7 +10,7 @@
 
 <!-- Scripts -->
 <script src="scripts/slicknav.js"></script>
-<script src="scripts/scripts.js?v=1.2.0"></script>
+<script src="scripts/scripts.js?v=1.2.1"></script>
 
 </body>
 

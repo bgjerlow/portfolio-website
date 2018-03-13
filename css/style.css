@@ -205,11 +205,9 @@ nav a:hover {
     margin-bottom: 25px;
 }
 
-.aboutHeader {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 220%;
-    line-height: 1.8;
-    color: #0A5D94;
+#aboutIntro {
+    font-size: 130%;
+    font-weight: bold;
 }
 
 .aboutText {

@@ -111,16 +111,6 @@
         display: none;
     }
 
-    /* Hiding the 'About' header w/ dynamic text from mobile */
-    .aboutHeader {
-        display: none;
-    }
-
-    #aboutHeaderMobile {
-        color: #0A5D94;
-        font-weight: 700;
-    }
-
     #contactForm {
         margin-right: 5%;
         margin-left: 5%;

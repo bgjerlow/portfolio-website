@@ -11,23 +11,16 @@
     <?php include 'inc/header.php';?>
 
     <main id="aboutContent" class="animated zoomIn">
-        <h2 class="aboutHeader">Hello there. I'm Bo Gjerl&oslash;w</h2>
-        <h2 class="aboutHeader" id="aboutDynamicText">a UI designer</h2>
-        <h2 class="aboutHeader">from Denmark</h2>
+        <p id="aboutIntro" class="aboutText">I am Bo Gjerl&oslash;w, a multimedia designer based in Denmark. </br>
+        I specialise in user interface design and front-end development, but I also enjoy working with user experience design and back-end development using Ruby On Rails.</p>
 
-        <p id="aboutHeaderMobile">Hello there. I'm Bo Gjerl&oslash;w, a UI designer &amp; front-end developer from Denmark</p>
-
-        <p class="aboutText">I am passionate about creating beautiful user interfaces with a focus on the user experience. I also have a degree in Multimedia Design and Communication from Business Academy Aarhus.</p>
-
-        <p class="aboutText">I have extensive knowledge and experience with HTML and CSS and know the basics of JavaScript and jQuery. Furthermore, I am proficient in Adobe Illustrator and Adobe Photoshop, and have experience working with Ruby on Rails.</p>
-
-        <p class="aboutText">In addition, I am used to working with the Scrum framework and tools like <a href="https://trello.com" class="itemLink">Trello</a>, <a href="https://github.com" class="itemLink">GitHub</a>, and <a href="https://www.invisionapp.com" class="itemLink">InVision</a>.</p>
-
-        <p class="aboutText">In my spare time, I like to watch motorsport (particularly the FIA World Endurance Championship) as well as kicking back and relaxing with some video games. Other interests of mine include cars, football, computers, and startups.</p>
-
-        <p class="aboutText">My interests also include design and web development, where I keep up to date with the latest trends and tendencies through reading different articles on <a href="https://medium.com" class="itemLink">Medium</a> and scrolling through <a href="https://dribbble.com" class="itemLink">Dribbble</a>.</p>
-
-        <p class="aboutText">If you would like to get in touch, you can send me an email from the <a href="contact" class="itemLink">contact page</a>. I look forward to hearing from you!</p>
+        <p class="aboutText">I am passionate about creating beautiful user interfaces with a focus on the user experience. I also keep up to date with the latest trends and tendencies within UI/UX design and web development.</p>
+        
+        <p class="aboutText">In the summer of 2017, I graduated from Business Academy Aarhus with an AP degree in Multimedia Design and Communication.</p>
+        
+        <p class="aboutText">Outside of design and web development, my interests include cars, motorsport, the automotive industry, technology, and football. In my spare time, I like to watch motorsport (particularly the FIA World Endurance Championship), play racing games, and keeping up with the latest news.</p>
+        
+        <p class="aboutText">I am currently looking for new challenges, so if you know of a role that fits my profile, please do not hesitate to <a href="contact" class="itemLink">contact me</a>.</p>
     </main>
 
     <?php include 'inc/footer.php';?>
