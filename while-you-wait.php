@@ -16,7 +16,7 @@
         </section>
 
         <section class="portfolioItem">
-            <p class="itemText"><a href="http://project.bgjerlowdesigns.com/Project_2.2_Exam/index.php" class="itemLink">View the live site here</a></p>
+            <p class="itemText"><a href="http://project.bogjerlow.com/Project_2.2_Exam/index.php" class="itemLink">View the live site here</a></p>
 
             <h3 class="itemSection">The project</h3>
             <p class="itemText">For the first-year exam project of the Multimedia Design and Communication programme at Business Academy Aarhus, I and my team (Lavinia Avadanei, Lasma Pastare, and Jevgenijs Zaicevs) created a website and visual identity for While You Wait. While You Wait is an application available on iOS and Android that helps restaurants, hairdressers and similar businesses with customer management. The timeframe for this project was 4 weeks.</p>

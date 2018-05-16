@@ -27,7 +27,7 @@
             <p class="itemText">Please note that this project is unsolicited, and was not done in cooperation with SPOT Festival representatives.</p>
 
             <h3 class="itemSection">The Final Website</h3>
-            <p class="itemText">Based on field and desk research, we designed and developed a campaign website for the 2017 edition of SPOT Festival. The campaign site includes basic information about the festival, the festival programme, accommodation information for tourists, as well as a page about volunteer opportunities for the festival. The Home page we created can be seen below, and <a href="http://project.bgjerlowdesigns.com/Project_3.2/" class="itemLink">the full website can be seen here.</a></p>
+            <p class="itemText">Based on field and desk research, we designed and developed a campaign website for the 2017 edition of SPOT Festival. The campaign site includes basic information about the festival, the festival programme, accommodation information for tourists, as well as a page about volunteer opportunities for the festival. The Home page we created can be seen below, and <a href="http://project.bogjerlow.com/Project_3.2/" class="itemLink">the full website can be seen here.</a></p>
             
             <img src="img/portfolio/spot-festival/spot-festival-home-page.jpg" class="itemImage itemImageMargin" alt="SPOT Festival - Home page">
         </section>
