@@ -408,6 +408,7 @@ nav a:hover {
 }
 
 .portfolioNav {
+    margin-top: 40px;
     margin-right: 25%;
     margin-left: 25%;
 }
