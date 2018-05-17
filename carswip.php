@@ -30,7 +30,7 @@
             <h3 class="itemSection">Challenges &amp; Goals</h3>
             <p class="itemText">When I took over on this project, parts of it were already in place. The general design of the website had been defined, and the development had been begun.</p>
             <p class="itemText">While four of the website’s pages (Home, Pricing, About Us, and Contact) had been started on, significant changes were to be made to the design and layout of these. In addition, pages for Cases, a background-catalogue, and a page for a value calculator were still left to be both designed and coded.</p>
-            <p class="itemText">The goal of this project was to ensure that the new website was both visually appealing while also showing that Carswip have successfully helped many used car dealerships with their services, as well as Carswip being experts in their field.</p>
+            <p class="itemText">The goal of this project was to ensure that the new website was both visually appealing and showcased the benefits of their services, while also showing that Carswip have successfully helped many used car dealerships with their services, as well as Carswip being experts in their field.</p>
             
             <h3 class="itemSection">The Result</h3>
             <p class="itemText">With the launch of the new website, Carswip now has a more visually appealing and thorough online representation than previously. The website showcases that Carswip is experts in their field and that their services are successfully helping used car dealerships of all shapes and sizes.</p>
