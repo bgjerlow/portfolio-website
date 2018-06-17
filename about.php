@@ -20,8 +20,6 @@
         <p class="aboutText">In the summer of 2017, I graduated from Business Academy Aarhus with an AP degree in Multimedia Design and Communication.</p>
         
         <p class="aboutText">Outside of design and web development, my interests include cars, motorsport, the automotive industry, technology, and football. In my spare time, I like to watch motorsport (particularly the FIA World Endurance Championship), play racing games, and keeping up with the latest news.</p>
-        
-        <p class="aboutText">I am currently looking for new challenges, so if you know of a role that fits my profile, please do not hesitate to <a href="contact" class="itemLink">contact me</a>.</p>
     
         <div id="downloadCV">
             <a class="button" href="archive/Bo-Gjerlow-CV.pdf">Download my CV</a>
