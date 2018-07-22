@@ -63,6 +63,7 @@
 
     #siteLogoMobile {
         float: left;
+        height: 43px;
         width: 40%;
         max-width: 150px;
         margin-top: 10px;
