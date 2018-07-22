@@ -11,15 +11,15 @@
     <?php include 'inc/header.php';?>
 
     <main id="aboutContent" class="animated zoomIn">
-        <p id="aboutIntro" class="aboutText">I'm Bo Gjerl&oslash;w, a multimedia designer based in Denmark. I currently work as Digital Brand Manager at Carswip.</br>
-        I specialise in user interface design, front-end development &amp; communication, but I also enjoy working with user experience design and back-end development using Ruby On Rails.
-        </p>
+        <p id="aboutIntro" class="aboutText">Hi, I'm Bo Gjerl&oslash;w, a multimedia designer based in Denmark.</p>
 
-        <p class="aboutText">I am passionate about creating beautiful user interfaces with a focus on the user experience. I also keep up to date with the latest trends and tendencies within UI/UX design and web development.</p>
+        <p class="aboutText">I currently work at <a href="http://www.carswip.com/" class="itemLink">Carswip</a> as a Digital Brand Manager. In this role, I work with marketing, lead generation, UI/UX design, and web development.</p>
         
-        <p class="aboutText">In the summer of 2017, I graduated from Business Academy Aarhus with an AP degree in Multimedia Design and Communication.</p>
+        <p class="aboutText">In the summer of 2017, I graduated from Business Academy Aarhus with an AP degree in Multimedia Design and Communication. During my time there, I specialised in UI/UX design and front-end development.</p>
         
-        <p class="aboutText">Outside of design and web development, my interests include cars, motorsport, the automotive industry, technology, and football. In my spare time, I like to watch motorsport (particularly the FIA World Endurance Championship), play racing games, and keeping up with the latest news.</p>
+        <p class="aboutText">Outside of design and web development, my interests also include cars, motorsport, technology, and football.</p>
+        
+        <p class="aboutText">When not working, I like to watch motorsport (particularly the FIA World Endurance Championship), play racing games, and keeping up with the latest news.</p>
     
         <div id="downloadCV">
             <a class="button" href="archive/Bo-Gjerlow-CV.pdf">Download my CV</a>
