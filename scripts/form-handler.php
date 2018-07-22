@@ -29,7 +29,7 @@
         // Build the email headers.
 		$email_headers  = 'MIME-Version: 1.0' . "\r\n";
 		$email_headers .= 'Content-type: text/plain; charset=UTF-8' . "\r\n";
-        $email_headers = "From: contact@bgjerlowdesigns.com\r\n";
+        $email_headers = "From: contact@bogjerlow.com\r\n";
 		$email_headers .= "Reply-To: $email\r\n";
 		$email_headers .= "Return-Path: $email\r\n";
 
