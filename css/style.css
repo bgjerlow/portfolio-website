@@ -35,6 +35,7 @@ strong {
     background-color: #0A5D94;
     color: #ffffff;
     -webkit-appearance: none;
+    transition: all 0.4s;
 }
 
 
@@ -73,6 +74,7 @@ nav a {
 
 nav a:hover {
     color: #EE6B15;
+    transition: all 0.4s;
 }
 
 .current {
@@ -127,6 +129,7 @@ nav a:hover {
 
 .content:hover .contentOverlay {
     opacity: 1;
+    transition: all 0.4s;
 }
 
 .contentImage {
@@ -406,6 +409,7 @@ nav a:hover {
 
 .itemLink:hover {
     color: #EE6B15;
+    transition: all 0.4s;
 }
 
 .itemImage {
@@ -437,6 +441,7 @@ nav a:hover {
 
 .portfolioNavText:hover {
     color: #EE6B15;
+    transition: all 0.4s;
 }
 
 .portfolioNavRight {
