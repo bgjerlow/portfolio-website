@@ -12,8 +12,8 @@
 
     <main id="aboutContent" class="animated zoomIn">
         <p id="aboutIntro" class="aboutText">Hi, I'm Bo Gjerl&oslash;w, a multimedia designer based in Denmark.</p>
-
-        <p class="aboutText">I currently work at <a href="http://www.carswip.com/" class="itemLink">Carswip</a> as a Digital Brand Manager. In this role, I work with UI/UX design, web development (mainly front-end), digital marketing and lead generation.</p>
+      
+        <p class="aboutText"> I specialize in UI/UX design and front-end web development (HTML, CSS, JS, Ruby on Rails), but also have skills within Digital Marketing and Communication.</p>
         
         <p class="aboutText">In the summer of 2017, I graduated from Business Academy Aarhus with an AP degree in Multimedia Design and Communication. During my time there, I specialised in UI/UX design and front-end development.</p>
         
