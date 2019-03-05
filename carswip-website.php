@@ -12,7 +12,7 @@
         <section class="portfolioItemIntro" id="carswipWebsiteIntro">
             <h1 class="itemTitle">Carswip Website</h1>
             <h2 class="itemTags">Web development, Web content, UI design, UX design</h2>
-            <img src="img/portfolio/carswip-website/carswip-top.jpg" class="itemImage itemImageMargin" alt="Carswip Website">
+            <img src="img/portfolio/carswip-website/carswip-website-top.jpg" class="itemImage itemImageMargin" alt="Carswip Website">
         </section>
 
         <section class="portfolioItem">

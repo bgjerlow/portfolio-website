@@ -32,7 +32,7 @@
             <div class="content">
                 <a href="carswip-website">
                     <div class="contentOverlay" id="carswipWebsiteOverlay"></div>
-                    <img src="img/portfolio/carswip-website/carswip-preview.jpg" class="contentImage" alt="Carswip Website">
+                    <img src="img/portfolio/carswip-website/carswip-website-preview.jpg" class="contentImage" alt="Carswip Website">
                     <div class="contentDetails">
                         <h2>Carswip Website</h2>
                         <h3>Web development, Web content, UI design, UX design</h3>
