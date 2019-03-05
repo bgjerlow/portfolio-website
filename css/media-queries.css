@@ -119,6 +119,15 @@
 }
 
 
+@media only screen and (max-width: 500px) {
+  .itemImageNarrow {
+      max-width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+  }
+}
+
+
 /* IE10+ settings */
 @media all and (-ms-high-contrast: none),
 (-ms-high-contrast: active) {

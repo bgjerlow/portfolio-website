@@ -175,6 +175,10 @@ nav a:hover {
     opacity: 1;
 }
 
+#carswipAppOverlay {
+    background: #e67e22;
+}
+
 #carswipWebsiteOverlay {
     background: #e67e22;
 }
@@ -418,6 +422,11 @@ nav a:hover {
     display: block;
     margin-right: auto;
     margin-left: auto;
+}
+
+.itemImageNarrow {
+    max-width: 400px;
+    margin-left: 0;
 }
 
 .itemImageMargin {

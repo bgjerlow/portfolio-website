@@ -22,7 +22,7 @@
                     <img src="img/portfolio/carswip-app/carswip-app-preview.jpg" class="contentImage" alt="Carswip App">
                     <div class="contentDetails">
                         <h2>Carswip App</h2>
-                        <h3>UI/UX Design</h3>
+                        <h3>UI design, UX design, Project management/coordination</h3>
                     </div>
                 </a>
             </div>
