@@ -17,9 +17,22 @@
     <main id="homeContent" class="animated zoomIn">
         <div class="portfolioPreview">
             <div class="content">
+                <a href="carswip-app">
+                    <div class="contentOverlay" id="carswipAppOverlay"></div>
+                    <img src="img/portfolio/carswip-app/carswip-app-preview.jpg" class="contentImage" alt="Carswip App">
+                    <div class="contentDetails">
+                        <h2>Carswip App</h2>
+                        <h3>UI/UX Design</h3>
+                    </div>
+                </a>
+            </div>
+        </div>
+      
+        <div class="portfolioPreview middleMargin">
+            <div class="content">
                 <a href="carswip-website">
                     <div class="contentOverlay" id="carswipWebsiteOverlay"></div>
-                    <img src="img/portfolio/carswip-website/carswip-preview.jpg" class="contentImage" alt="Spot Festival">
+                    <img src="img/portfolio/carswip-website/carswip-preview.jpg" class="contentImage" alt="Carswip Website">
                     <div class="contentDetails">
                         <h2>Carswip Website</h2>
                         <h3>Web development, Web content, UI design, UX design</h3>
@@ -28,7 +41,7 @@
             </div>
         </div>
         
-        <div class="portfolioPreview middleMargin">
+        <div class="portfolioPreview">
             <div class="content">
                 <a href="spot-festival">
                     <div class="contentOverlay" id="spotFestivalOverlay"></div>
@@ -36,19 +49,6 @@
                     <div class="contentDetails">
                         <h2>SPOT Festival</h2>
                         <h3>UI design, UX design, Web development</h3>
-                    </div>
-                </a>
-            </div>
-        </div>
-
-        <div class="portfolioPreview">
-            <div class="content">
-                <a href="while-you-wait">
-                    <div class="contentOverlay" id="whileYouWaitOverlay"></div>
-                    <img src="img/portfolio/while-you-wait/while-you-wait-preview.jpg" class="contentImage" alt="Spot Festival">
-                    <div class="contentDetails">
-                        <h2>While You Wait</h2>
-                        <h3>UI design, UX design, Web development, Branding</h3>
                     </div>
                 </a>
             </div>

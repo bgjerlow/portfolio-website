@@ -40,6 +40,7 @@
 
     <nav class="portfolioNav">
         <a href="spot-festival" class="portfolioNavLeft portfolioNavText">&#9664; SPOT Festival</a>
+        <a href="carswip-app" class="portfolioNavRight portfolioNavText">Carswip App &#9654;</a>
     </nav>
 
     <?php include 'inc/footer.php';?>

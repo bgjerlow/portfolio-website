@@ -334,16 +334,16 @@ nav a:hover {
     border-radius: 2.5px;
 }
 
+#carswipAppIntro {
+    background-color: #e67e22;
+}
+
 #carswipWebsiteIntro {
     background-color: #e67e22;
 }
 
 #spotFestivalIntro {
     background-color: #a13024;
-}
-
-#whileYouWaitIntro {
-    background-color: #0A5D94;
 }
 
 #forzaHubMobileIntro {
