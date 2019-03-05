@@ -45,7 +45,7 @@
 
     <nav class="portfolioNav">
         <a href="while-you-wait" class="portfolioNavLeft portfolioNavText">&#9664; While You Wait</a>
-        <a href="carswip" class="portfolioNavRight portfolioNavText">Carswip &#9654;</a>
+        <a href="carswip-website" class="portfolioNavRight portfolioNavText">Carswip Website &#9654;</a>
     </nav>
 
     <?php include 'inc/footer.php';?>

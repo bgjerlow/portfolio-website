@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bo Gjerlow | Carswip</title>
+    <title>Bo Gjerlow | Carswip Website</title>
 
     <?php include 'inc/header.php';?>
 
     <main class="animated slideInLeft">
-        <section class="portfolioItemIntro" id="carswipIntro">
-            <h1 class="itemTitle">Carswip</h1>
+        <section class="portfolioItemIntro" id="carswipWebsiteIntro">
+            <h1 class="itemTitle">Carswip Website</h1>
             <h2 class="itemTags">Web development, Web content, UI design, UX design</h2>
-            <img src="img/portfolio/carswip/carswip-top.jpg" class="itemImage itemImageMargin" alt="Carswip">
+            <img src="img/portfolio/carswip-website/carswip-top.jpg" class="itemImage itemImageMargin" alt="Carswip Website">
         </section>
 
         <section class="portfolioItem">
@@ -22,10 +22,10 @@
             <p class="itemText">In November 2017, I was hired by Carswip to take over the development of their new website as well as creating content for it.</p>
             <p class="itemText">Carswip is a Danish startup who specialises in photo optimisation for used car dealerships. They currently work with some of the biggest and most exclusive used car dealerships in Denmark and are growing rapidly.</p>
             <p class="itemText">The new Carswip website was created using Ruby On Rails and was launched on December 21st 2017. It can be seen at <a href="http://www.carswip.com/" class="itemLink">www.carswip.com</a></p>
-            <img src="img/portfolio/carswip/carswip-home-page.jpg" class="itemImage itemImageMargin" alt="Carswip Home Page">
-            <img src="img/portfolio/carswip/carswip-cases-overview.jpg" class="itemImage itemImageMargin" alt="Carswip Cases Overview Page">
-            <img src="img/portfolio/carswip/carswip-pricing.jpg" class="itemImage itemImageMargin" alt="Carswip Pricing Page">
-            <img src="img/portfolio/carswip/carswip-value-calculator.jpg" class="itemImage itemImageMargin" alt="Carswip Value Calculator Page">
+            <img src="img/portfolio/carswip-website/carswip-home-page.jpg" class="itemImage itemImageMargin" alt="Carswip Home Page">
+            <img src="img/portfolio/carswip-website/carswip-cases-overview.jpg" class="itemImage itemImageMargin" alt="Carswip Cases Overview Page">
+            <img src="img/portfolio/carswip-website/carswip-pricing.jpg" class="itemImage itemImageMargin" alt="Carswip Pricing Page">
+            <img src="img/portfolio/carswip-website/carswip-value-calculator.jpg" class="itemImage itemImageMargin" alt="Carswip Value Calculator Page">
             
             <h3 class="itemSection">Challenges &amp; Goals</h3>
             <p class="itemText">When I took over on this project, parts of it were already in place. The general design of the website had been defined, and the development had been begun.</p>

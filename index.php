@@ -17,11 +17,11 @@
     <main id="homeContent" class="animated zoomIn">
         <div class="portfolioPreview">
             <div class="content">
-                <a href="carswip">
-                    <div class="contentOverlay" id="carswipOverlay"></div>
-                    <img src="img/portfolio/carswip/carswip-preview.jpg" class="contentImage" alt="Spot Festival">
+                <a href="carswip-website">
+                    <div class="contentOverlay" id="carswipWebsiteOverlay"></div>
+                    <img src="img/portfolio/carswip-website/carswip-preview.jpg" class="contentImage" alt="Spot Festival">
                     <div class="contentDetails">
-                        <h2>Carswip</h2>
+                        <h2>Carswip Website</h2>
                         <h3>Web development, Web content, UI design, UX design</h3>
                     </div>
                 </a>

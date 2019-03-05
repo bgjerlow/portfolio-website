@@ -175,7 +175,7 @@ nav a:hover {
     opacity: 1;
 }
 
-#carswipOverlay {
+#carswipWebsiteOverlay {
     background: #e67e22;
 }
 
@@ -334,7 +334,7 @@ nav a:hover {
     border-radius: 2.5px;
 }
 
-#carswipIntro {
+#carswipWebsiteIntro {
     background-color: #e67e22;
 }
 
