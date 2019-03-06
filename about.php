@@ -22,7 +22,7 @@
         <p class="aboutText">When not working, I like to watch motorsport (particularly the FIA World Endurance Championship), play racing games, and keeping up with the latest news.</p>
     
         <div id="downloadCV">
-            <a class="button" href="archive/Bo-Gjerlow-CV.pdf">Download my CV</a>
+            <a class="button" href="archive/Bo-Gjerlow-CV.pdf?v=2.0.0">Download my CV</a>
         </div>
     </main>
 

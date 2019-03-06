@@ -35,7 +35,7 @@
                     <img src="img/portfolio/carswip-website/carswip-website-preview.jpg" class="contentImage" alt="Carswip Website">
                     <div class="contentDetails">
                         <h2>Carswip Website</h2>
-                        <h3>Web development, Web content, UI design, UX design</h3>
+                        <h3>UI design, UX design, Web development, Web content</h3>
                     </div>
                 </a>
             </div>

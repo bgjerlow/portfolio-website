@@ -11,7 +11,7 @@
     <main class="animated slideInLeft">
         <section class="portfolioItemIntro" id="carswipWebsiteIntro">
             <h1 class="itemTitle">Carswip Website</h1>
-            <h2 class="itemTags">Web development, Web content, UI design, UX design</h2>
+            <h2 class="itemTags">UI design, UX design, Web development, Web content</h2>
             <img src="img/portfolio/carswip-website/carswip-website-top.jpg" class="itemImage itemImageMargin" alt="Carswip Website">
         </section>
 
@@ -19,22 +19,17 @@
             <p class="itemText"><a href="http://www.carswip.com/" class="itemLink">View the live site here</a></p>
 
             <h3 class="itemSection">Project Info</h3>
-            <p class="itemText">In November 2017, I was hired by Carswip to take over the development of their new website as well as creating content for it.</p>
             <p class="itemText">Carswip is a Danish startup who specialises in photo optimisation for used car dealerships. They currently work with some of the biggest and most exclusive used car dealerships in Denmark and are growing rapidly.</p>
-            <p class="itemText">The new Carswip website was created using Ruby On Rails and was launched on December 21st 2017. It can be seen at <a href="http://www.carswip.com/" class="itemLink">www.carswip.com</a></p>
-            <img src="img/portfolio/carswip-website/carswip-home-page.jpg" class="itemImage itemImageMargin" alt="Carswip Home Page">
-            <img src="img/portfolio/carswip-website/carswip-cases-overview.jpg" class="itemImage itemImageMargin" alt="Carswip Cases Overview Page">
-            <img src="img/portfolio/carswip-website/carswip-pricing.jpg" class="itemImage itemImageMargin" alt="Carswip Pricing Page">
-            <img src="img/portfolio/carswip-website/carswip-value-calculator.jpg" class="itemImage itemImageMargin" alt="Carswip Value Calculator Page">
-            
-            <h3 class="itemSection">Challenges &amp; Goals</h3>
-            <p class="itemText">When I took over on this project, parts of it were already in place. The general design of the website had been defined, and the development had been begun.</p>
-            <p class="itemText">While four of the website’s pages (Home, Pricing, About Us, and Contact) had been started on, significant changes were to be made to the design and layout of these. In addition, pages for Cases, a background-catalogue, and a page for a value calculator were still left to be both designed and coded.</p>
-            <p class="itemText">The goal of this project was to ensure that the new website was both visually appealing and showcased the benefits of their services, while also showing that Carswip have successfully helped many used car dealerships with their services, as well as Carswip being experts in their field.</p>
+            <p class="itemText">In connection with the launch of a new product, <a href="carswip-app" class="itemLink">the Carswip App</a>, I was given the task of re-designing the Carswip website as well as coding it from scratch. In addition, I was also responsible for creating the text content used on the website (in both Danish and English).</p>
+            <p class="itemText">The new website was created using Ruby on Rails, Haml, Sass, and JavaScript/jQuery.</p>
             
             <h3 class="itemSection">The Result</h3>
-            <p class="itemText">With the launch of the new website, Carswip now has a more visually appealing and thorough online representation than previously. The website showcases that Carswip is experts in their field and that their services are successfully helping used car dealerships of all shapes and sizes.</p>
-            <p class="itemText">The Carswip website is still being updated regularly with new content and features and can be seen at <a href="http://www.carswip.com/" class="itemLink">www.carswip.com</a></p>
+            <p class="itemText">With the launch of the new website, Carswip now has a more visually appealing and thorough online representation than previously.</p>
+            <p class="itemText">The new website can be seen at <a href="http://www.carswip.com/" class="itemLink">www.carswip.com</a></p>
+            <img src="img/portfolio/carswip-website/carswip-website-home.jpg" class="itemImage itemImageMargin" alt="Carswip Home page">
+            <img src="img/portfolio/carswip-website/carswip-website-home-2.jpg" class="itemImage itemImageMargin" alt="Carswip Home page">
+            <img src="img/portfolio/carswip-website/carswip-website-app.jpg" class="itemImage itemImageMargin" alt="Carswip App page">
+            <img src="img/portfolio/carswip-website/carswip-website-pricing.jpg" class="itemImage itemImageMargin" alt="Carswip Pricing page">
         </section>
     </main>
 
