@@ -3,8 +3,8 @@
 
 <!-- Website styling -->
 <link rel="stylesheet" type="text/css" href="css/reset.css">
-<link rel="stylesheet" type="text/css" href="css/style.css?v=1.1.5">
-<link rel="stylesheet" type="text/css" href="css/media-queries.css?v=1.1.5">
+<link rel="stylesheet" type="text/css" href="css/style.css?v=1.1.6">
+<link rel="stylesheet" type="text/css" href="css/media-queries.css?v=1.1.6">
 
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:400,600" rel="stylesheet">
@@ -13,7 +13,7 @@
 <link rel="stylesheet" type="text/css" href="css/animate.css">
 
 <!-- SlickNav -->
-<link rel="stylesheet" href="css/slicknav.css">
+<link rel="stylesheet" href="css/slicknav.css?v=1.0.1">
 
 <!-- jQuery -->
 <script src="https://code.jquery.com/jquery-3.0.0.min.js" integrity="sha256-JmvOoLtYsmqlsWxa7mDSLMwa6dZ9rrIdtrrVYRnDRH0=" crossorigin="anonymous"></script>

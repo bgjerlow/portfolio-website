@@ -28,11 +28,11 @@
             </div>
         </div>
       
-        <div class="portfolioPreview middleMargin">
+        <div class="portfolioPreview">
             <div class="content">
                 <a href="carswip-website">
                     <div class="contentOverlay" id="carswipWebsiteOverlay"></div>
-                    <img src="img/portfolio/carswip-website/carswip-website-preview.jpg" class="contentImage" alt="Carswip Website">
+                    <img src="img/portfolio/carswip-website/carswip-website-preview-new.jpg" class="contentImage" alt="Carswip Website">
                     <div class="contentDetails">
                         <h2>Carswip Website</h2>
                         <h3>UI design, UX design, Web development, Web content</h3>
@@ -67,7 +67,7 @@
             </div>
         </div>
 
-        <div class="portfolioPreview middleMargin">
+        <div class="portfolioPreview">
             <div class="content">
                 <a href="liga-bbva-redesign">
                     <div class="contentOverlay" id="ligaBBVARedesignOverlay"></div>

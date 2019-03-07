@@ -89,24 +89,13 @@ nav a:hover {
     display: inline-flex;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 10px;
-    margin-bottom: 10px;
 }
 
 .portfolioPreview {
     text-align: center;
     -webkit-box-flex: 1;
-    -ms-flex: 1 0 30%;
-    flex: 1 0 30%;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-.middleMargin {
-    margin-left: 20px;
-    margin-right: 20px;
+    -ms-flex: 1 0 33%;
+    flex: 1 0 33%;
 }
 
 .content {
@@ -124,7 +113,6 @@ nav a:hover {
     bottom: 0;
     right: 0;
     opacity: 0;
-    border-radius: 2.5px;
 }
 
 .content:hover .contentOverlay {
@@ -135,7 +123,6 @@ nav a:hover {
 .contentImage {
     width: 100%;
     display: block;
-    border-radius: 2.5px;
 }
 
 .contentDetails {

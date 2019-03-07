@@ -71,18 +71,10 @@
         margin-left: 5%;
     }
 
-    /* Changing margins on page containers */
-    #homeContent,
-    #aboutContent,
-    .portfolioItem,
+    /* Changing margins on nav */
     .portfolioNav {
         margin-left: 5%;
         margin-right: 5%;
-    }
-
-    .portfolioItemIntro {
-        padding-left: 5%;
-        padding-right: 5%;
     }
 
     /* Changing settings for 'Home' page */
@@ -90,28 +82,9 @@
         -webkit-box-flex: 1;
         -ms-flex: 1 0 100%;
         flex: 1 0 100%;
-        margin-top: 20px;
-        margin-bottom: 20px;
     }
 
-    .middleMargin {
-        margin-left: 0;
-        margin-right: 0;
-    }
-
-    #carswipAppOverlay,
-    #carswipWebsiteOverlay,
-    #spotFestivalOverlay,
-    #forzaHubMobileOverlay,
-    #ligaBBVARedesignOverlay,
-    #cartabaseOverlay {
-        background: none;
-    }
-
-    .contentDetails {
-        display: none;
-    }
-
+    /* Changing margins for form on 'Contact' page*/
     #contactForm {
         margin-right: 5%;
         margin-left: 5%;
