@@ -74,10 +74,14 @@
     /* Changing margins of various elements */
     .portfolioNav,
     .portfolioItem,
-    .portfolioItemIntro,
     #aboutContent {
         margin-left: 5%;
         margin-right: 5%;
+    }
+  
+    .portfolioItemIntro {
+        padding-left: 5%;
+        padding-right: 5%;
     }
 
     /* Changing settings for 'Home' page */
