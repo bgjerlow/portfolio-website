@@ -4,7 +4,7 @@
 <!-- Website styling -->
 <link rel="stylesheet" type="text/css" href="css/reset.css">
 <link rel="stylesheet" type="text/css" href="css/style.css?v=1.1.6">
-<link rel="stylesheet" type="text/css" href="css/media-queries.css?v=1.1.6">
+<link rel="stylesheet" type="text/css" href="css/media-queries.css?v=1.1.7">
 
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans:400,600" rel="stylesheet">

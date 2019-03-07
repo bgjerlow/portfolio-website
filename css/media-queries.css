@@ -71,8 +71,10 @@
         margin-left: 5%;
     }
 
-    /* Changing margins on nav */
-    .portfolioNav {
+    /* Changing margins of various elements */
+    .portfolioNav,
+    .portfolioItem,
+    #aboutContent {
         margin-left: 5%;
         margin-right: 5%;
     }
