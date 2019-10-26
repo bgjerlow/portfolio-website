@@ -5,15 +5,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bo Gjerlow | About Me</title>
-    <meta name="description" content="The portfolio of Bo Gjerløw, a UI designer & front-end developer based in Denmark">
-    <meta name="keywords" content="UI designer,UI design,user interface designer,user interface design,front-end developer,front-end development,design,development">
+    <meta name="description" content="The portfolio of Bo Gjerløw, a UI engineer based in Denmark">
+    <meta name="keywords" content="UI engineer, UI designer,UI design,user interface designer,user interface design,front-end developer,front-end development,design,development">
 
     <?php include 'inc/header.php';?>
 
     <main id="aboutContent" class="animated zoomIn">
-        <p id="aboutIntro" class="aboutText">Hi, I'm Bo Gjerl&oslash;w, a multimedia designer based in Denmark.</p>
+        <p id="aboutIntro" class="aboutText">Hi, I'm Bo Gjerl&oslash;w, a UI engineer based in Denmark.</p>
       
-        <p class="aboutText"> I specialize in UI/UX design and front-end web development (HTML, CSS, JS, Ruby on Rails), but also have skills within Digital Marketing and Communication.</p>
+        <p class="aboutText"> I specialize in UI/UX design and front-end web development (HTML, CSS, JS, Ruby on Rails), but also have skills within Digital Marketing and Communication. I currently work as a front-end developer at <a href="https://dingaeld.dk/" class="itemLink">DinGæld</a></p>
         
         <p class="aboutText">In the summer of 2017, I graduated from Business Academy Aarhus with an AP degree in Multimedia Design and Communication. During my time there, I specialised in UI/UX design and front-end development.</p>
         
@@ -22,7 +22,7 @@
         <p class="aboutText">When not working, I like to watch motorsport (particularly the FIA World Endurance Championship), play racing games, and keeping up with the latest news.</p>
     
         <div id="downloadCV">
-            <a class="button" href="archive/Bo-Gjerlow-CV.pdf?v=2.0.0">Download my CV</a>
+            <a class="button" href="archive/Bo-Gjerlow-CV.pdf?v=3.0.0">Download my CV</a>
         </div>
     </main>
 
